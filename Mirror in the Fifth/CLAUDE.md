@@ -39,4 +39,13 @@ This folder is an Obsidian vault (Minimal theme), synced by iCloud and tracked i
 - **Pitch-class operations:** integers 0–11 with C = 0; use `t` and `e` for 10 and 11 in set listings. Write sets as `[0,1,4]`, prime forms as `(014)`, and operations as T*n*, T*n*I, or I*n*. Name the index or axis of every inversion explicitly.
 - **Performance examples:** letter names with Unicode accidentals (C♯, D♭, B♮).
 - **Intervals:** P5, M3, and so on for tonal contexts. Use interval classes (ic1–ic6) for set-theoretic contexts.
+- **Staff notation:** the ABC Music Notation plugin renders ` ```abc ` code blocks as sheet music. Use them for short musical examples: chords, voicings, a mirrored pair side by side. Keep the header minimal (`X:1`, `L:`, `K:`) and remember that ABC has its own accidental syntax (`^C` sharp, `_D` flat, `=B` natural), separate from the Unicode accidentals used in prose. For example, C major and C minor as a chord pair:
+
+  ```abc
+  X:1
+  L:1/1
+  K:C
+  [CEG] | [C_EG] |]
+  ```
+
 - **Diagrams:** when a concept would benefit from a figure, include a short SVG spec: what it shows, which pitch classes or axis, and the layout (clock face, Tonnetz, line). The spec is for the web app in `05_AppSync/`.
