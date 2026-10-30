@@ -7,9 +7,7 @@ status: draft
 ai-assisted: true
 created: 2026-10-29
 tags:
-  - book/outline
 aliases:
-  - Book Outline
 ---
 
 # The Mirror in the Fifth

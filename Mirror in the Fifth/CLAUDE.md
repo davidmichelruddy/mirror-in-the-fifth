@@ -46,7 +46,7 @@ Check your own output against this, and flag it in the author's drafts:
 ## File rules
 
 1. **`06_Book/` and `03_Substack/` belong to the author.** Edit a file there only when asked to work on that specific file, and only for non-prose changes: frontmatter, links, formatting, ABC blocks. Never edit prose there, and never bypass this with shell commands. Claude Code asks for approval before each edit in these folders.
-2. **The book outline is `ai-assisted: true`.** Treat it as a skeleton and a source. Don't polish its prose, and don't carry its sentences into drafts.
+2. **The book outline (`07_Lab/The Mirror in the Fifth_Outline.md`) is `ai-assisted: true`.** It is the working map for the book's research, so structural help on it is welcome. Treat it as a skeleton and a source. Don't polish its prose, and don't carry its sentences into drafts.
 3. **Don't move or rename notes** unless asked. Links depend on file names. If a rename is needed, update every `[[link]]` that points at the note.
 4. **Leave `.obsidian/` alone** unless asked to change vault settings.
 5. **Cite claims:** name the theorist and work behind any historical or theoretical claim (Riemann, Lewin, Cohn, Straus, etc.). If unsure of a source, flag it instead of inventing one.
@@ -60,6 +60,7 @@ Check your own output against this, and flag it in the author's drafts:
 - `04_Assets/`: images and exported SVGs that notes embed.
 - `05_AppSync/`: data and diagram specs exchanged with the custom diagram web app.
 - `06_Book/`: manuscript chapters and outlines.
+- `07_Lab/`: AI-assisted working material, including the book outline. AI may edit here without approval, following the rules above.
 
 ## Obsidian conventions
 
