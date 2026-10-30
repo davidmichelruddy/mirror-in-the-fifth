@@ -1,18 +1,17 @@
 ---
-type: outline
-title: The Mirror in the Fifth
-subtitle: A Polar Theory of Harmony
-author: David Michel-Ruddy
-status: draft
+type: import
+source: https://claude.ai/artifact/CC6SpbxjL8CjgreHA84Poh
+tab: The Mirror in the Fifth
+source-rev: 149
+imported: 2026-10-30
 ai-assisted: true
-created: 2026-10-29
 tags:
-aliases:
+  - lab/import
 ---
 
 # The Mirror in the Fifth
 
-Draft Oct 29, 2026 · @David Michel-Ruddy
+Oct 23, 2026 · @David Michel-Ruddy
 
 *A Polar Theory of Harmony*
 
@@ -74,7 +73,7 @@ The argument as a chain, each claim tagged by what it rests on. *Premise*: the b
 
 1. **Generation before ancestry.** *Premise* (above).
 2. **The prime ladder.** 2 gives identity (the octave), 3 generation (fifths), 5 color (thirds). *Supported:* Mathieu, *Harmonic Experience*; Hauptmann is close (octave as unity, fifth as duality, third as their union), and Levy's senarius uses the same three primes.
-3. **The unit is the fifth.** The perfect fifth 3:2 is the first relation that generates a new pitch, so the book treats it as one object with two poles: the lower pole generates, the upper pole is generated. *Premise:* a choice of unit, argued from claims 1 and 2, not proven.
+3. **The unit is the fifth.** The perfect fifth is the first relation that generates a new pitch, so the book treats it as one object with two poles: the lower pole generates, the upper pole is generated. *Premise:* a choice of unit, argued from claims 1 and 2, not proven.
 4. **Addresses.** Every pitch has an address, its power of 3 and its power of 5, octaves set aside. C sits at the origin because the anchor is placed there. Addresses name relationships, not tunings. *Derived.*
 5. **The mirror.** A half-turn around the center of C–G. Twins' addresses sum to (1, 0): the 5 number flips sign, the 3 numbers balance on one fifth. It leaves two sets in place: C–G (rest) and B–D–F–A♭ (tension). *Derived;* matches negative harmony in practice. An affirmation, not a proof.
 6. **Major and minor are the two polar triads.** The unit plus a third hung up from the lower pole, or down from the upper. Both use the same two color intervals (4:5 and 5:6) in opposite order, Zarlino's two divisions of the fifth. Read by generation: major is one generator, two offspring (C sounds E and G); minor is two generators, one shared offspring (C and E♭ both sound G). *Derived* from 1 and 3.
