@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "ask": [
+      "Edit(**/06_Book/**)",
+      "Edit(**/03_Substack/**)"
+    ]
+  }
+}

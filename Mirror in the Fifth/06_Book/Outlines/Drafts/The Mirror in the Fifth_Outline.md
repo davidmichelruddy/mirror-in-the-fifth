@@ -4,6 +4,7 @@ title: The Mirror in the Fifth
 subtitle: A Polar Theory of Harmony
 author: David Michel-Ruddy
 status: draft
+ai-assisted: true
 created: 2026-10-29
 tags:
   - book/outline
