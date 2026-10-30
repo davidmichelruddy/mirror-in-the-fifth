@@ -45,7 +45,7 @@ tags:
 
 - Each spiral spelled from the tone's own anchor, centered on the tone
 - Six spirals → four ET mirrors: I4, I6, I8, It (whole-tone ladder around home's I7)
-- Merged pairs = the neutral tritones: E/B♭ (I8), E♭/A (I6)
+- Merged pairs = the pole-centered tritones (formerly "neutral"): E/B♭ (I8), E♭/A (I6)
   - same pitch-class pairs, different center and spelling: D♭–G from E vs C♯–G from B♭; C–F♯ from E♭ vs G♭–C from A
   - → distinct spirals in the lattice (§7); ET index alone hides this
 - Unmerged: B (It), A♭ (I4), a minor third apart
@@ -181,7 +181,7 @@ Addresses (fifths, thirds): E (0,1) · E♭ (1,−1) · B (1,1) · B♭ (2,−1)
 - Same held dyad, two readings:
   - E–B♭ → F–A: F major from C / D minor from G
   - E♭–A → D–B♭: G minor from C / B♭ major from F
-  - both neutral tritones; reading set by the anchor heard as home
+  - both pole-centered tritones; reading set by the anchor heard as home
 
 **Center and rim: oriented tritones**
 
@@ -209,15 +209,38 @@ Addresses (fifths, thirds): E (0,1) · E♭ (1,−1) · B (1,1) · B♭ (2,−1)
 | B–F, A♭–D | one (F, D = poles) | no; e.g. B's arms → F 27/20, E♯ 125/96, not F 4/3 |
 | D♭–G, C–F♯ | none | no |
 
-- → neutral tritones = the only pairs generated from both ends, each end reaching the other exactly
+- → pole-centered tritones (E–B♭, E♭–A) = the only pairs generated from both ends, each end reaching the other exactly
 - → candidate for prominence: the axes the outward-pointing spirals turn on (author's claim; *Derived* for the reach, *Hypothesis* for the weight)
 - Antipode note ("the far point splits in two") → here: which half of the split is the partner's center
+
+**Correction: no neutral tritones (author)**
+
+- "Neutral" = sum of two addresses (E + B♭ = (2, 0)) → symmetric, unordered → same flattening as the ET index
+- Oriented: tritone takes its center's color (held keeps the tone's color, §5)
+  - E → B♭ bright (→ F major) · B♭ → E dark (→ D minor) · E♭ → A dark (→ G minor) · A → E♭ bright (→ B♭ major)
+- Zero sum only with one spelling (each end = partner's center); other arm colored: E's rim A♯ → (−2, 4) · B♭'s rim F♭ → (6, −4)
+- From home: E–B♭ in E's spiral (bright), E♭–A in E♭'s spiral (dark) → 3 bright, 3 dark
+
+| Mode | Edge tritone | Color from home | Third |
+| --- | --- | --- | --- |
+| Lydian | C–F♯ | bright | E |
+| Ionian | F–B | bright | E |
+| Mixolydian | E–B♭ | bright (was neutral) | E |
+| Dorian | E♭–A | dark (was neutral) | E♭ |
+| Aeolian | A♭–D | dark | E♭ |
+| Phrygian | D♭–G | dark | E♭ |
+
+- Edge color = mode's third: major-third modes bright, minor-third modes dark
+- Home's mirror: every mode pair swaps bright ↔ dark (Lydian ↔ Phrygian, Ionian ↔ Aeolian, Mixolydian ↔ Dorian); no neutral → neutral exception
+- Kept from the old reading: E–B♭, E♭–A = pole-centered (E–G–B♭, A–C–E♭) + reciprocal (rim = partner's center); color still anchor-dependent (B♭ → E dark from G–D)
+- Affects in [[Restructured argument (tab)]]: "Three species of tritone", the edge-color bullet, "The neutral tritones take color from a neighbor", the to-check item on neutral tritones sounding less directed, and "neutral tritone" for the 600¢ midpoint (separate term needed)
+- To check: does the color-from-home reading match the hexagon addresses, or does it require switching to oriented addresses throughout?
 
 ## 8. Ties to existing notes
 
 - Crossed resolution on every anchor → now per tone, plus the color split
 - Two routes to the outside sets → color tones along the chromatic semitone; here made directional
-- Neutral tritones take color from a neighbor → §7 same-dyad readings
+- "Neutral tritones take color from a neighbor" → §7 same-dyad readings; "neutral" withdrawn (§7 correction)
 - Two B°7s → §7, B vs A♭
 - Blue notes on the axis → E–B♭ and E♭–A = I7 and IV7 tritones = the tonic spirals' held tritones
 - Principle: swap = P move
@@ -231,7 +254,7 @@ Addresses (fifths, thirds): E (0,1) · E♭ (1,−1) · B (1,1) · B♭ (2,−1)
 - F–A after E–B♭ with C as home vs with G as home
 - Minor-key homes: does the rule hold with A or C minor as home?
 - Lattice: are each spiral's two landings exact twins, or a comma off?
-- Tritone species from each tone's own anchor (bright / dark / neutral) vs from home
+- Tritone species from each tone's own anchor (bright / dark) vs from home
 - Extending the window: D–A's tones F♯ (→ G) and F (→ A); does each new anchor add exactly one outer destination?
 - Relation to the mode-edge table (edge tritones cycling through the dim7s)
 
