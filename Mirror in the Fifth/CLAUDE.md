@@ -61,6 +61,7 @@ Check your own output against this, and flag it in the author's drafts:
 - `05_AppSync/`: data and diagram specs exchanged with the custom diagram web app.
 - `06_Book/`: manuscript chapters and outlines.
 - `07_Lab/`: the research workspace, AI-assisted. AI may edit here without approval, following the rules above (except `Imports/`, which stays untouched).
+  - `07_Lab/Notes/`: a flat folder for anything worth keeping: ideas, snippets, summaries of AI conversations. No required format. Summaries of AI sessions use the `AI Session Summary` template (`type: ai-session`, `source:` = where the conversation happened).
 
 ## Obsidian conventions
 
