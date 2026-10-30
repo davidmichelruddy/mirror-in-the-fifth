@@ -5,6 +5,7 @@ tab: The Mirror in the Fifth
 source-rev: 149
 imported: 2026-10-30
 ai-assisted: true
+corrected: 2026-10-30
 tags:
   - lab/import
 ---
@@ -549,7 +550,7 @@ Each spine is symmetric under the half-turn around its pole. The first ring arou
 
 So the color tone and the pole agree exactly in the lattice: each pair is one half-turn family on one minor-third line, centered at different notes of it. E sits one minor third below G on G's line; E♭ one minor third above C on C's line. Note the crossing: the bright tone goes with the upper pole, the dark tone with the lower. And the twelve-tone statement "sum 7 holds B°7" lifts to something sharper: the unit's mirror trades two parallel minor-third segments, the bright B–D and the dark F–A♭. That is the hexagon's B°7 and its bright and dark tritones. Coverage of all twelve notes by three diminished sevenths is arithmetic; the line structure is what the lattice adds.
 
-**Three species of tritone.** Add a tritone's two hexagon addresses and read the color number. F–B and C–F♯ are bright; A♭–D and D♭–G are dark. E–B♭ gives (2, 0) and E♭–A gives (0, 0), so their color cancels: each joins one bright tone to one dark one. The neutral pair splits by pole instead: E–B♭ centers on G, E♭–A on C. They are the first rings of the pole spines, which is why they cancel. *Derived;* species depend on address (see What the lattice decides).
+**Two species of tritone.** Add a tritone's two hexagon addresses and read the color number. F–B and C–F♯ are bright; A♭–D and D♭–G are dark. E–B♭ gives (2, 0) and E♭–A gives (0, 0): each joins one bright tone to one dark one, but the sum is unordered. Oriented, each takes the color of the end home generates: E–B♭ belongs to the spiral of E, home's bright tone, and is bright; E♭–A belongs to the spiral of E♭, home's dark tone, and is dark. Three bright, three dark. The zero sum survives as structure: E–B♭ centers on G, E♭–A on C, the first rings of the pole spines, so these two are pole-centered, and each end's spiral reaches the other's center exactly (see [[Color-tone spirals – held and swapped tritones]]). *Derived;* species depend on address (see What the lattice decides).
 
 **Edges.** Slide a seven-note window past C–G. Each slide moves the edge tritone by a fifth, and 7 ≡ 1 (mod 3), so the edges cycle through the three diminished sevenths with period three.
 
@@ -557,15 +558,15 @@ So the color tone and the pole agree exactly in the lattice: each pair is one ha
 | --- | --- | --- | --- | --- |
 | Lydian | C … F♯ | C–F♯ | bright | C°7 |
 | Ionian | F … B | F–B | bright | B°7 |
-| Mixolydian | B♭ … E | E–B♭ | neutral | C♯°7 |
-| Dorian | E♭ … A | E♭–A | neutral | C°7 |
+| Mixolydian | B♭ … E | E–B♭ | bright | C♯°7 |
+| Dorian | E♭ … A | E♭–A | dark | C°7 |
 | Aeolian | A♭ … D | A♭–D | dark | B°7 |
 | Phrygian | D♭ … G | D♭–G | dark | C♯°7 |
 
-- **The neutral tritones are the edges of the twin palindromes.** The centered six-note window B♭ F C G D A has B♭–A at its edges; one more note either way gives E–B♭ or E♭–A.
+- **The pole-centered tritones are the edges of the twin palindromes.** The centered six-note window B♭ F C G D A has B♭–A at its edges; one more note either way gives E–B♭ or E♭–A.
 - **Each diminished seventh is the joint edge set of two windows three fifths apart,** one hop on the minor-third lane: Ionian and Aeolian, Mixolydian and Phrygian, Lydian and Dorian.
-- **Edge color runs bright, bright, neutral, neutral, dark, dark:** placement sets color at the edges too (principle 6).
-- **Six windows, three mirror pairs.** Lydian and Phrygian, Ionian and Aeolian, Mixolydian and Dorian: each tritone appears once, and each diminished seventh twice. Locrian adds no new edge. Its G♭–C is Lydian's C–F♯ reached from the other end of the spine (see The tritone as antipode).
+- **Edge color runs bright, bright, bright, dark, dark, dark,** split where the mode's third changes: E in Lydian, Ionian and Mixolydian, E♭ in Dorian, Aeolian and Phrygian. Placement sets color at the edges too (principle 6).
+- **Six windows, three mirror pairs.** Lydian and Phrygian, Ionian and Aeolian, Mixolydian and Dorian: each tritone appears once, each diminished seventh twice, and each pair trades a bright edge for a dark one. Locrian adds no new edge. Its G♭–C is Lydian's C–F♯ reached from the other end of the spine (see The tritone as antipode).
 
 **Resolution.** In the diatonic setting E–B♭ resolves inward to F–A (IV, bright) and E♭–A to D–B♭ (the top of v, dark); the unit's mirror swaps the two, as it swaps IV and v. B°7 resolves into the home anchor; the border tritones resolve into the flanking anchors, crossed: the bright tone's tension falls flatward to F, the dark tone's rises toward G. Each pole's spine is also the rootless 7♭9 into its offspring, with the pole as seventh (F's into C, C's into G, G's into D): the ancestral F in G7 (Ch. 7), generalized. *Hypothesis.*
 
@@ -582,7 +583,7 @@ So the color tone and the pole agree exactly in the lattice: each pair is one ha
 - **Crossed resolution on every anchor.** Subdominant side: E–B♭ to F–A, D♭–G to C–A♭. Dominant side: F♯–C to G–B, E♭–A to D–B♭. In each, one voice lands on a pole and one on the color, as B–F to C–E and A♭–D to G–E♭ at home.
 - **Two routes to each tension.** The tension into a pole is held by that pole's own unit mirror and by its ancestor's minor-third spine. Into C: the C–G mirror and F's spine (B°7). Into G: the G–D mirror and C's spine (C°7). Into F: the F–C mirror and B♭'s spine (C♯°7).
 - **Two routes to the outside sets.** The anchors reach the outside diminished sevenths along the spine; the color tones reach the same twelve-tone sets along the chromatic semitone, crossed: the bright tone E with the subdominant side, the dark tone E♭ with the dominant side.
-- **The neutral tritones take color from a neighbor.** E–B♭ is neutral from home (E is home's bright third, B♭ the dark floor under G–D), but bright from F–C, where E is F's leading tone and B♭ F's ancestor on the spine. E♭–A is neutral from home but dark from G–D, where E♭ is G's dark color and A G's offspring on the spine. The same keys change address with the anchor heard as home, so these tritones are where home's reading and its neighbors' readings disagree.
+- **The pole-centered tritones change color with the anchor.** From home, E–B♭ is bright (E is home's bright third) and E♭–A dark (E♭ is home's dark third). F–C agrees on E–B♭: E is F's leading tone, B♭ F's ancestor on the spine. G–D agrees on E♭–A: E♭ is G's dark color, A G's offspring on the spine. The other end of each is a color tone of the remaining anchor, which hears it the other way: from G–D, B♭ (G's dark third) makes B♭ → E dark; from F–C, A (F's bright third) makes A → E♭ bright. The same keys change address and color with the anchor heard as home, so these tritones are where the readings disagree.
 
 This gives the anchor window IV I V a tension for each anchor: three units, three diminished sevenths, inside and outside. It fits the book's dominant and subdominant sides directly. *Derived* for the structure; *Hypothesis* for the reading as dominant- and subdominant-side energies.
 
@@ -591,9 +592,9 @@ This gives the anchor window IV I V a tension for each anchor: three units, thre
 **What the lattice decides.**
 
 - **Direction, not exactness.** Every mirror here is a true half-turn of the lattice. The spine-centered ones (poles, unit, anchors) flip color around the spine. The color-tone ones are centered on a color layer, so they send the spine to the doubly bright layer (E) or the doubly dark layer (E♭); they keep their own minor-third line instead.
-- **The arms don't meet.** Two minor thirds down from C reach F♯ at 25/18 (569 cents); two up reach G♭ at 36/25 (631 cents), a greater diesis apart. The equal-tempered tritone, 600 cents, is their exact midpoint: the neutral tritone. Spelling records which arm a note came from.
-- **Two B°7s.** F's spine gives F, D at 10/9, B at 50/27, A♭ at 8/5 and C♭ at 48/25; its D is ii's D, so it reads as predominant. The hexagon's B°7 is F, D at 9/8, B at 15/8 and A♭: V's D and the true leading tone, the dominant reading. They share only F and A♭, and A♭–D is dark in one reading and neutral in the other. Same keys, a comma apart: the two Ds (Regions) again.
-- **Neutral from home, colored from a neighbor.** E–B♭ and E♭–A are neutral when read from C–G and take color from the anchors beside it (above).
+- **The arms don't meet.** Two minor thirds down from C reach F♯ at 25/18 (569 cents); two up reach G♭ at 36/25 (631 cents), a greater diesis apart. The equal-tempered tritone, 600 cents, is their exact midpoint: the tempered tritone. Spelling records which arm a note came from.
+- **Two B°7s.** F's spine gives F, D at 10/9, B at 50/27, A♭ at 8/5 and C♭ at 48/25; its D is ii's D, so it reads as predominant. The hexagon's B°7 is F, D at 9/8, B at 15/8 and A♭: V's D and the true leading tone, the dominant reading. They share only F and A♭, and A♭–D is dark in one reading and pole-centered (on F) in the other. Same keys, a comma apart: the two Ds (Regions) again.
+- **Colored from home, reversed from one neighbor.** Read from C–G, E–B♭ is bright and E♭–A dark, each oriented from home's own color tone. The anchor that owns the other end hears it the other way: from G–D, B♭ → E is dark; from F–C, A → E♭ is bright (above).
 
 **The tritone as antipode.** On a circle, every mirror has two centers half a circle apart. The unit's axis crosses the circle of fifths at C–G and again at F♯–C♯ (G♭–D♭); on the chromatic circle it crosses between E♭ and E and between A and B♭, the two blue-note points, a tritone apart. A pole's mirror holds the pole and its tritone (C and F♯). So in equal temperament everything mirrored at home is mirrored again at the tritone, and tritone transposition leaves every diminished seventh in place. B°7 is the rootless 7♭9 of both G and D♭ (the tritone substitution), so home's tension resolves to C or to its antipode, F♯, as well as along the minor-third lane.
 
@@ -701,7 +702,7 @@ Static figures that need the most care: the brightness ladder (Ch. 3), two roads
 - [ ] Where does gravity stop? Working answer: gravity is inference from the clues actually sounding, not an endless slope. In C–G, G points to C; C points to F, but nothing sounding supports F, so C wins. This matches virtual-pitch models of chord roots, where (in Parncutt's version) a pitch's strongest support after the octave goes to the pitch a fifth below, then a major third below; check the weights before citing. To test: does it predict key-finding results (Krumhansl), and where does context override it? Until then the book does not claim that the comma and gravity come from the same slope, or that the flat side is more relaxed than home.
 - [ ] Generation before ancestry: does any source state it as a principle of harmony? Hauptmann and Mathieu may come close; check both.
 - [ ] Express lanes: does the P, R and L reading hold for minor-key homes, and how do Giant Steps and the diminished pivot read through it?
-- [ ] Diminished sevenths: does the ear read a given diminished chord as predominant or dominant as the addresses predict? Do the neutral tritones (E–B♭, E♭–A) sound less directed than the bright and dark ones, and gain direction when a flanking anchor is heard as home? Test the blue-note axis against measured blues intonation, and how the outside diminished sevenths read in minor-key homes.
+- [ ] Diminished sevenths: does the ear read a given diminished chord as predominant or dominant as the addresses predict? Do the pole-centered tritones (E–B♭, E♭–A) sound as directed as the others, in the color of the end they are heard from (E → B♭ toward F major, B♭ → E toward D minor)? Test the blue-note axis against measured blues intonation, and how the outside diminished sevenths read in minor-key homes.
 
 ## Lineage and reading
 
@@ -761,3 +762,7 @@ Source: Steve Coleman's essay "Symmetrical Movement Concept," including his summ
 - **One rule becomes two.** Twins sum to (1, 0): the color numbers are equal and opposite, and the generation numbers total one fifth. A semitone count cannot make that split.
 - **Polar, not equal, in the arithmetic.** Home sits at the origin, (0, 0); the mirror's center sits at (½, 0), halfway along the fifth. The gap between them is the asymmetry: color mirrors around the center, the root stays at the origin. Generator-centered dualism has no such gap. *Derived;* the strongest argument for the choice of axis.
 - **What equal temperament hides.** A pure third mirrors to a pure third (5/4 ↔ 6/5), and the two Ds, the two B♭s and C♭ vs. B become visible.
+
+## Corrections
+
+- **2026-10-30 · Neutral tritones withdrawn.** E–B♭ and E♭–A reclassified from neutral to bright and dark from home: oriented, each tritone takes the color of its center, so the six tritones split three bright, three dark, matching each mode's third. Renamed pole-centered; the 600¢ midpoint renamed the tempered tritone. Passages: Two species of tritone (was Three species), the mode-edge table and its bullets, Two B°7s, the colored-from-home bullets, the to-check items. Finding: [[Color-tone spirals – held and swapped tritones]]. Diverges from source-rev 149.

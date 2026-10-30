@@ -5,6 +5,7 @@ tab: Restructured argument
 source-rev: 25
 imported: 2026-10-30
 ai-assisted: true
+corrected: 2026-10-30
 tags:
   - lab/import
 ---
@@ -194,7 +195,7 @@ Each spine is symmetric under the half-turn around its pole. The first ring arou
 
 So the color tone and the pole agree exactly in the lattice: each pair is one half-turn family on one minor-third line, centered at different notes of it. E sits one minor third below G on G's line; E♭ one minor third above C on C's line. Note the crossing: the bright tone goes with the upper pole, the dark tone with the lower. And the twelve-tone statement "sum 7 holds B°7" lifts to something sharper: the unit's mirror trades two parallel minor-third segments, the bright B–D and the dark F–A♭. That is the hexagon's B°7 and its bright and dark tritones. Coverage of all twelve notes by three diminished sevenths is arithmetic; the line structure is what the lattice adds.
 
-**Three species of tritone.** Add a tritone's two hexagon addresses and read the color number. F–B and C–F♯ are bright; A♭–D and D♭–G are dark. E–B♭ gives (2, 0) and E♭–A gives (0, 0), so their color cancels: each joins one bright tone to one dark one. The neutral pair splits by pole instead: E–B♭ centers on G, E♭–A on C. They are the first rings of the pole spines, which is why they cancel. *Derived;* species depend on address (see What the lattice decides).
+**Two species of tritone.** Add a tritone's two hexagon addresses and read the color number. F–B and C–F♯ are bright; A♭–D and D♭–G are dark. E–B♭ gives (2, 0) and E♭–A gives (0, 0): each joins one bright tone to one dark one, but the sum is unordered. Oriented, each takes the color of the end home generates: E–B♭ belongs to the spiral of E, home's bright tone, and is bright; E♭–A belongs to the spiral of E♭, home's dark tone, and is dark. Three bright, three dark. The zero sum survives as structure: E–B♭ centers on G, E♭–A on C, the first rings of the pole spines, so these two are pole-centered, and each end's spiral reaches the other's center exactly (see [[Color-tone spirals – held and swapped tritones]]). *Derived;* species depend on address (see What the lattice decides).
 
 **Edges.** Slide a seven-note window past C–G. Each slide moves the edge tritone by a fifth, and 7 ≡ 1 (mod 3), so the edges cycle through the three diminished sevenths with period three.
 
@@ -202,15 +203,15 @@ So the color tone and the pole agree exactly in the lattice: each pair is one ha
 | --- | --- | --- | --- | --- |
 | Lydian | C … F♯ | C–F♯ | bright | C°7 |
 | Ionian | F … B | F–B | bright | B°7 |
-| Mixolydian | B♭ … E | E–B♭ | neutral | C♯°7 |
-| Dorian | E♭ … A | E♭–A | neutral | C°7 |
+| Mixolydian | B♭ … E | E–B♭ | bright | C♯°7 |
+| Dorian | E♭ … A | E♭–A | dark | C°7 |
 | Aeolian | A♭ … D | A♭–D | dark | B°7 |
 | Phrygian | D♭ … G | D♭–G | dark | C♯°7 |
 
-- **The neutral tritones are the edges of the twin palindromes.** The centered six-note window B♭ F C G D A has B♭–A at its edges; one more note either way gives E–B♭ or E♭–A.
+- **The pole-centered tritones are the edges of the twin palindromes.** The centered six-note window B♭ F C G D A has B♭–A at its edges; one more note either way gives E–B♭ or E♭–A.
 - **Each diminished seventh is the joint edge set of two windows three fifths apart,** one hop on the minor-third lane: Ionian and Aeolian, Mixolydian and Phrygian, Lydian and Dorian.
-- **Edge color runs bright, bright, neutral, neutral, dark, dark:** placement sets color at the edges too (principle 6).
-- **Six windows, three mirror pairs.** Lydian and Phrygian, Ionian and Aeolian, Mixolydian and Dorian: each tritone appears once, and each diminished seventh twice. Locrian adds no new edge. Its G♭–C is Lydian's C–F♯ reached from the other end of the spine (see The tritone as antipode).
+- **Edge color runs bright, bright, bright, dark, dark, dark,** split where the mode's third changes: E in Lydian, Ionian and Mixolydian, E♭ in Dorian, Aeolian and Phrygian. Placement sets color at the edges too (principle 6).
+- **Six windows, three mirror pairs.** Lydian and Phrygian, Ionian and Aeolian, Mixolydian and Dorian: each tritone appears once, each diminished seventh twice, and each pair trades a bright edge for a dark one. Locrian adds no new edge. Its G♭–C is Lydian's C–F♯ reached from the other end of the spine (see The tritone as antipode).
 
 **Resolution.** In the diatonic setting E–B♭ resolves inward to F–A (IV, bright) and E♭–A to D–B♭ (the top of v, dark); the unit's mirror swaps the two, as it swaps IV and v. B°7 resolves into the home anchor; the border tritones resolve into the flanking anchors, crossed: the bright tone's tension falls flatward to F, the dark tone's rises toward G. Each pole's spine is also the rootless 7♭9 into its offspring, with the pole as seventh (F's into C, C's into G, G's into D): the ancestral F in G7 (Ch. 7), generalized. *Hypothesis.*
 
@@ -219,9 +220,9 @@ So the color tone and the pole agree exactly in the lattice: each pair is one ha
 **What the lattice decides.**
 
 - **Direction, not exactness.** Every mirror here is a true half-turn of the lattice. The spine-centered ones (poles, unit, anchors) flip color around the spine. The color-tone ones are centered on a color layer, so they send the spine to the doubly bright layer (E) or the doubly dark layer (E♭); they keep their own minor-third line instead.
-- **The arms don't meet.** Two minor thirds down from C reach F♯ at 25/18 (569 cents); two up reach G♭ at 36/25 (631 cents), a greater diesis apart. The equal-tempered tritone, 600 cents, is their exact midpoint: the neutral tritone. Spelling records which arm a note came from.
-- **Two B°7s.** F's spine gives F, D at 10/9, B at 50/27, A♭ at 8/5 and C♭ at 48/25; its D is ii's D, so it reads as predominant. The hexagon's B°7 is F, D at 9/8, B at 15/8 and A♭: V's D and the true leading tone, the dominant reading. They share only F and A♭, and A♭–D is dark in one reading and neutral in the other. Same keys, a comma apart: the two Ds (Regions) again.
-- **Neutral from home, colored from a neighbor.** E–B♭ and E♭–A are neutral when read from C–G. Read from the anchors beside it they take color (next working note).
+- **The arms don't meet.** Two minor thirds down from C reach F♯ at 25/18 (569 cents); two up reach G♭ at 36/25 (631 cents), a greater diesis apart. The equal-tempered tritone, 600 cents, is their exact midpoint: the tempered tritone. Spelling records which arm a note came from.
+- **Two B°7s.** F's spine gives F, D at 10/9, B at 50/27, A♭ at 8/5 and C♭ at 48/25; its D is ii's D, so it reads as predominant. The hexagon's B°7 is F, D at 9/8, B at 15/8 and A♭: V's D and the true leading tone, the dominant reading. They share only F and A♭, and A♭–D is dark in one reading and pole-centered (on F) in the other. Same keys, a comma apart: the two Ds (Regions) again.
+- **Colored from home, reversed from one neighbor.** Read from C–G, E–B♭ is bright and E♭–A dark, each oriented from home's own color tone. The anchor that owns the other end hears it the other way: from G–D, B♭ → E is dark; from F–C, A → E♭ is bright (next working note).
 
 **The tritone as antipode.** *Exploration.* On a circle, every mirror has two centers half a circle apart. The unit's axis crosses the circle of fifths at C–G and again at F♯–C♯ (G♭–D♭); on the chromatic circle it crosses between E♭ and E and between A and B♭, the two blue-note points, a tritone apart. A pole's mirror holds the pole and its tritone (C and F♯). So in equal temperament everything mirrored at home is mirrored again at the tritone, and tritone transposition leaves every diminished seventh in place. B°7 is the rootless 7♭9 of both G and D♭ (the tritone substitution), so home's tension resolves to C or to its antipode, F♯, as well as along the minor-third lane.
 
@@ -244,13 +245,13 @@ So there are two polarities. The unit's is local: generation and color around a 
 - **Crossed resolution on every anchor.** Subdominant side: E–B♭ to F–A, D♭–G to C–A♭. Dominant side: F♯–C to G–B, E♭–A to D–B♭. In each, one voice lands on a pole and one on the color, as B–F to C–E and A♭–D to G–E♭ at home.
 - **Two routes to each tension.** The tension into a pole is held by that pole's own unit mirror and by its ancestor's minor-third spine. Into C: the C–G mirror and F's spine (B°7). Into G: the G–D mirror and C's spine (C°7). Into F: the F–C mirror and B♭'s spine (C♯°7).
 - **Two routes to the outside sets.** The anchors reach the outside diminished sevenths along the spine; the color tones reach the same twelve-tone sets along the chromatic semitone, crossed: the bright tone E with the subdominant side, the dark tone E♭ with the dominant side.
-- **The neutral tritones take color from a neighbor.** E–B♭ is neutral from home (E is home's bright third, B♭ the dark floor under G–D), but bright from F–C, where E is F's leading tone and B♭ F's ancestor on the spine. E♭–A is neutral from home but dark from G–D, where E♭ is G's dark color and A G's offspring on the spine. The same keys change address with the anchor heard as home, so these tritones are where home's reading and its neighbors' readings disagree.
+- **The pole-centered tritones change color with the anchor.** From home, E–B♭ is bright (E is home's bright third) and E♭–A dark (E♭ is home's dark third). F–C agrees on E–B♭: E is F's leading tone, B♭ F's ancestor on the spine. G–D agrees on E♭–A: E♭ is G's dark color, A G's offspring on the spine. The other end of each is a color tone of the remaining anchor, which hears it the other way: from G–D, B♭ (G's dark third) makes B♭ → E dark; from F–C, A (F's bright third) makes A → E♭ bright. The same keys change address and color with the anchor heard as home, so these tritones are where the readings disagree.
 
 This gives the anchor window IV I V a tension for each anchor: three units, three diminished sevenths, inside and outside. It fits the book's dominant and subdominant sides directly and deserves its own section once tested. *Derived* for the structure; *Hypothesis* for the reading as dominant- and subdominant-side energies.
 
 **Working rule.** Twelve-tone and chord-scale names identify keys; lattice addresses identify relationships. Every mod-12 statement is restated as a lattice statement plus the comma or diesis equal temperament erased. A diminished seventh is a key-level object that the lattice splits into versions (predominant and dominant, bright arm and dark arm, inside and outside), and the ear chooses by context.
 
-**To check:** whether the ear reads a given diminished chord as predominant or dominant as the addresses predict; whether the neutral tritones (E–B♭, E♭–A) sound less directed than the bright and dark ones, and gain direction when a flanking anchor is heard as home; the blue-note axis against measured blues intonation; how the outside diminished sevenths read in minor-key homes.
+**To check:** whether the ear reads a given diminished chord as predominant or dominant as the addresses predict; whether the pole-centered tritones (E–B♭, E♭–A) sound as directed as the others, in the color of the end they are heard from (E → B♭ toward F major, B♭ → E toward D minor); the blue-note axis against measured blues intonation; how the outside diminished sevenths read in minor-key homes.
 
 ### Working note: the gentle slope
 
@@ -304,24 +305,22 @@ Twins straddle the mirror's fixed points, 351¢ and 951¢: the blue-note axis. W
 
 ### Working note: the 12-bar blues
 
-*A reading for Ch. 17, not yet a claim.* The blues lives on the anchor window IV I V and draws on both its sides. It mixes energies: the subdominant cadence is essential beside the dominant one, and neutral tritones give its sevenths their color. It is a vast family of forms; this reads one common skeleton and how variations sit on it. Everything here is 5-limit.
+*A reading for Ch. 17, not yet a claim.* The blues lives on the anchor window IV I V and draws on both its sides. It mixes energies: the subdominant cadence is essential beside the dominant one. It is a vast family of forms; this reads one common skeleton and how variations sit on it. Everything here is 5-limit.
 
 The blues is an idiom with its own logic, rooted in African American practice. This reading shows where its harmony sits on the lattice, not where it came from. Blue notes are inflections, not tunings.
 
-**The form on the anchors.** I, IV and V stand on F–C, C–G and G–D: the centered anchor window, its own mirror (see Anchor windows). The skeleton below circles inside that window.
+**The form on the anchors.** I, IV and V stand on C–G, F–C and G–D: the centered anchor window, its own mirror (see Anchor windows). The skeleton below circles inside that window.
 
-| Bars | Chord (in C) | Tritone | From home | Reading |
-| --- | --- | --- | --- | --- |
-| 1–4 | C7 | E–B♭ | neutral | Color at home; turns toward F in bar 4 |
-| 5–6 | F7 | A–E♭ | neutral | Subdominant side; E♭ is home's ♭3 |
-| 7–8 | C7 | E–B♭ | neutral | Subdominant cadence: IV to I, E♭ to E |
-| 9 | G7 | B–F | bright | Dominant side: half of B°7 |
-| 10 | F7 | A–E♭ | neutral | V to IV: tension dissolves rather than resolves |
-| 11–12 | C7, G7 | E–B♭, B–F | neutral, bright | Subdominant cadence home, then the authentic turnaround |
+| Bars | Chord (in C) | Tritone | Reading |
+| --- | --- | --- | --- |
+| 1–4 | C7 | E–B♭ | Color at home; turns toward F in bar 4 |
+| 5–6 | F7 | A–E♭ | Subdominant side; E♭ is home's ♭3 |
+| 7–8 | C7 | E–B♭ | Subdominant cadence: IV to I, E♭ to E |
+| 9 | G7 | B–F | Dominant side: half of B°7 |
+| 10 | F7 | A–E♭ | V to IV |
+| 11–12 | C7, G7 | E–B♭, B–F | Subdominant cadence home, then the authentic turnaround |
 
-**Why a dominant seventh can be home.** Read from C–G, E–B♭ is neutral: E is home's bright third, B♭ the dark floor under G–D, and their colors cancel. Nothing points urgently, so C7 can sit as tonic. The ♭7 is a favored color, not a demand.
-
-**The motion baked into ♭7 (bar 4).** Read from F–C, the same tritone turns bright and directed: E becomes F's leading tone, B♭ F's ancestor on the spine. It resolves inward, E to F and B♭ to A. When bar 4 accents the ♭7, often the first place a version adds it, the ear starts hearing F–C as the next anchor. Same keys, new address: re-addressing by context, with no change of tuning.
+**The motion baked into ♭7 (bar 4).** Read from F–C, the same tritone points into the anchor heard as home: E becomes F's leading tone, B♭ F's ancestor on the spine. It resolves inward, E to F and B♭ to A. When bar 4 accents the ♭7, often the first place a version adds it, the ear starts hearing F–C as the next anchor. Same keys, new address: re-addressing by context, with no change of tuning.
 
 **Two cadences, both sides of the window.** The blues needs both. The authentic cadence (V to I) is gravity: the root falls a fifth to its generator. The subdominant cadence (IV to I) runs the other way: the root rises a fifth, ancestor to offspring, as F generates C. The blues comes home this way at bars 6–7 and 10–11, and IV7 to I also flips E♭ to E, dark to bright. Bar 4 adds a third motion: I7 acting as the dominant of IV, gravity pointing flatward. The form mixes gravity, generation and color rather than resting on one. *Hypothesis:* the subdominant pull is generation heard forward, the authentic pull generation traced back (Ch. 13).
 
@@ -337,8 +336,6 @@ Polar, not equal: both sevenths are colors on I, but B leans into home and B♭ 
 
 **Only the light flats.** The blues adds ♭3 and ♭7 to a major tonic and leaves out ♭6 and ♭2. That matches the arrival order: ♭3 and ♭7 color dyads at or above home, while ♭6 and ♭2 color dyads below it and are never heard as bright (see Arrival).
 
-**V to IV (bars 9–10).** Classical harmony rarely moves V to IV; the blues does every chorus. Here the bright, directed B–F gives way to the neutral A–E♭. The tension is not resolved but dissolved, and the cadence waits for bar 11. *Hypothesis.*
-
 **The mirrored blues.** C7 mirrors to Cm6 (C E♭ G A), F7 to Gm6 (G B♭ D E) and G7 to Fm6 (F A♭ C D). The mirror of a major blues is a minor blues with the roles swapped: IV's place becomes v, V's becomes iv. A candidate for the Gallery of Mirrors (Ch. 16).
 
 **Variations.** The blues is a vast family: 8-, 12- and 16-bar forms, minor blues, jazz and bebop blues, countless turnarounds. The skeleton above is one member. Variations change which colors and anchors light up; a few, read the same way:
@@ -351,9 +348,9 @@ Polar, not equal: both sevenths are colors on I, but B leans into home and B♭ 
 
 Each is a readout of the same anchors; the lattice tracks what changes.
 
-*Derived* for the tritone species, the anchor window and the mirrored chords; *Hypothesis* for the blue-note axis and the V–IV reading.
+*Derived* for the anchor window and the mirrored chords; *Hypothesis* for the blue-note axis.
 
-**To check:** where bar 4's ♭7 enters across recorded versions; whether listeners hear C7 on I as less directed than G7 on V, and F7 as more directed once F–C is heard as home; measured blues thirds, fifths and sevenths against 351, 600 and 951 cents; minor blues read the same way.
+**To check:** where bar 4's ♭7 enters across recorded versions; measured blues thirds, fifths and sevenths against 351, 600 and 951 cents; minor blues read the same way.
 
 ## Taken out of the claims (and why)
 
@@ -363,3 +360,8 @@ Each is a readout of the same anchors; the lattice tracks what changes.
 - "The tonic triad implies its source most clearly": true of major, not minor. For minor, it is the tonic's fifth.
 - Temperley and Tan, Huron and Davis as first cited: restated in open question 4.
 - "Bø7 is heard as Dm6": moved to parked ideas as a prediction.
+
+## Corrections
+
+- **2026-10-30 · Neutral tritones withdrawn.** E–B♭ and E♭–A reclassified from neutral to bright and dark from home: oriented, each tritone takes the color of its center, so the six tritones split three bright, three dark, matching each mode's third. Renamed pole-centered; the 600¢ midpoint renamed the tempered tritone. Passages: Two species of tritone (was Three species), the mode-edge table and its bullets, Two B°7s, the colored-from-home bullets, the to-check items. Finding: [[Color-tone spirals – held and swapped tritones]]. Diverges from source-rev 25.
+- **2026-10-30 · 12-bar blues working note trimmed.** Removed what staked itself on neutral tritones: the "From home" color column, "Why a dominant seventh can be home", "V to IV (bars 9–10)" and the V–IV table reading, the neutral-tritone clause in the opening, the tritone-species and V–IV status labels, and the directedness to-check. Bar 4 no longer says the tritone "turns bright". Also fixed the anchor order in "The form on the anchors" (I, IV and V on C–G, F–C and G–D). Original text in git history.

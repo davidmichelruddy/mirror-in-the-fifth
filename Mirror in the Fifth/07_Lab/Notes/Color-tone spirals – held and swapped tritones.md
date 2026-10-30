@@ -233,7 +233,8 @@ Addresses (fifths, thirds): E (0,1) · E♭ (1,−1) · B (1,1) · B♭ (2,−1)
 - Edge color = mode's third: major-third modes bright, minor-third modes dark
 - Home's mirror: every mode pair swaps bright ↔ dark (Lydian ↔ Phrygian, Ionian ↔ Aeolian, Mixolydian ↔ Dorian); no neutral → neutral exception
 - Kept from the old reading: E–B♭, E♭–A = pole-centered (E–G–B♭, A–C–E♭) + reciprocal (rim = partner's center); color still anchor-dependent (B♭ → E dark from G–D)
-- Affects in [[Restructured argument (tab)]]: "Three species of tritone", the edge-color bullet, "The neutral tritones take color from a neighbor", the to-check item on neutral tritones sounding less directed, and "neutral tritone" for the 600¢ midpoint (separate term needed)
+- Corrected 2026-10-30 in [[Restructured argument (tab)]] and [[The Mirror in the Fifth (tab)]] (see each file's Corrections log); 600¢ midpoint → "tempered tritone"
+- Blues working note removed from the import (author: unsupported)
 - To check: does the color-from-home reading match the hexagon addresses, or does it require switching to oriented addresses throughout?
 
 ## 8. Ties to existing notes
