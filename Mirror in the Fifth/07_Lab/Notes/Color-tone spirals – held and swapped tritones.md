@@ -38,17 +38,17 @@ tags:
 | -------- | ------ | ----- | --------------------------------------------- | --- |
 | T bright | E (4)  | I8    | E–E · E♭–F · D–F♯ · D♭–G · C–G♯ · B–A · B♭–B♭ |     |
 | T dark   | E♭ (3) | I6    | E♭–E♭ · D–E · D♭–F · C–F♯ · B–G · B♭–A♭ · A–A |     |
-| D bright | B (e)  | It    | B–B · B♭–C · A–D♭ · A♭–D · G–E♭ · F♯–E · F–F  |     |
-| D dark   | B♭ (t) | I8    | B♭–B♭ · A–B · A♭–C · G–C♯ · F♯–D · F–E♭ · E–E |     |
+| D bright | B (11)  | I10    | B–B · B♭–C · A–D♭ · A♭–D · G–E♭ · F♯–E · F–F  |     |
+| D dark   | B♭ (10) | I8    | B♭–B♭ · A–B · A♭–C · G–C♯ · F♯–D · F–E♭ · E–E |     |
 | S bright | A (9)  | I6    | A–A · A♭–B♭ · G–B · G♭–C · F–D♭ · E–D · E♭–E♭ |     |
 | S dark   | A♭ (8) | I4    | A♭–A♭ · G–A · G♭–B♭ · F–B · E–C · E♭–D♭ · D–D |     |
 
 - Each spiral spelled from the tone's own anchor, centered on the tone
-- Six spirals → four ET mirrors: I4, I6, I8, It (whole-tone ladder around home's I7)
+- Six spirals → four ET mirrors: I4, I6, I8, I10 (whole-tone ladder around home's I7)
 - Merged pairs = the pole-centered tritones (formerly "neutral"): E/B♭ (I8), E♭/A (I6)
   - same pitch-class pairs, different center and spelling: D♭–G from E vs C♯–G from B♭; C–F♯ from E♭ vs G♭–C from A
   - → distinct spirals in the lattice (§7); ET index alone hides this
-- Unmerged: B (It), A♭ (I4), a minor third apart
+- Unmerged: B (I10), A♭ (I4), a minor third apart
 - Every spiral covers all 12 → trivial; content = how it treats the three dim7s
 
 ## 3. Held and swapped
@@ -60,13 +60,13 @@ tags:
 - Tone's own dim7: kept as a set, one tritone still, one flipped
 - Other two dim7s: exchanged with each other, pair by pair
 
-Sets: C°7 [0,3,6,9] · C♯°7 [1,4,7,t] · B°7 [2,5,8,e]
+Sets: C°7 [0,3,6,9] · C♯°7 [1,4,7,10] · B°7 [2,5,8,11]
 
 | Spiral | Holds set | Held tritone | Swapped tritone | Exchanged sets |
 | --- | --- | --- | --- | --- |
 | E (I8) | C♯°7 | E–B♭ | D♭–G | C°7 ↔ B°7 |
 | E♭ (I6) | C°7 | E♭–A | C–F♯ | C♯°7 ↔ B°7 |
-| B (It) | B°7 | B–F | A♭–D | C°7 ↔ C♯°7 |
+| B (I10) | B°7 | B–F | A♭–D | C°7 ↔ C♯°7 |
 | B♭ (I8) | C♯°7 | B♭–E | C♯–G | C°7 ↔ B°7 |
 | A (I6) | C°7 | A–E♭ | G♭–C | C♯°7 ↔ B°7 |
 | A♭ (I4) | B°7 | A♭–D | F–B | C°7 ↔ C♯°7 |

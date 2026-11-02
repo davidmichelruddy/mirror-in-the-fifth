@@ -27,11 +27,11 @@ tags:
 ## 1. The claim
 
 - An axis earns its place by deriving a complete interval set (author)
-  - odd sum: m2, m3, P4, P5, M6, M7 [1,3,5,7,9,e]
-  - even sum: P1, M2, M3, Tri, m6, m7 [0,2,4,6,8,t]
+  - odd sum: m2, m3, P4, P5, M6, M7 [1,3,5,7,9,11]
+  - even sum: P1, M2, M3, Tri, m6, m7 [0,2,4,6,8,10]
 - Odd sum = **center**: falls between two notes, no note sits on it, truly symmetric
 - Even sum = **pole**: sits on a note (and its tritone); the note is held, not centered
-- Diminished field = twelve tones as three dim7s: C°7 [0,3,6,9] · C♯°7 [1,4,7,t] · B°7 [2,5,8,e] = pitch class mod 3
+- Diminished field = twelve tones as three dim7s: C°7 [0,3,6,9] · C♯°7 [1,4,7,10] · B°7 [2,5,8,11] = pitch class mod 3
 - One center sorts the field: one set fixed (by m3s), two exchanged (by fifths and semitones)
 - One pole sorts it too: one set held (by P1 and Tri), two exchanged (by whole tones and major thirds)
 - Resolution = pole → center: tension held at a pole, released at a center
@@ -58,8 +58,8 @@ tags:
 | Set | Poles (even) | Centers (odd) |
 | --- | --- | --- |
 | C°7 | I0, I6 | I3, I9 |
-| C♯°7 | I2, I8 | I5, Ie |
-| B°7 | I4, It | I1, I7 |
+| C♯°7 | I2, I8 | I5, I11 |
+| B°7 | I4, I10 | I1, I7 |
 
 - Pole pair *n*, *n*+6 = the set's two tritones; center pair *n*, *n*+6 = two anchors a tritone apart
 
@@ -104,7 +104,7 @@ tags:
 |  | I6 | E♭ (T dark), A (S bright) | E♭–A | C–F♯ |
 | C♯°7 | I2 | pole G | C♯–G | E–B♭ |
 |  | I8 | E (T bright), B♭ (D dark) | E–B♭ | C♯–G |
-| B°7 | It | pole F, B (D bright) | F–B | A♭–D |
+| B°7 | I10 | pole F, B (D bright) | F–B | A♭–D |
 |  | I4 | pole D, A♭ (S dark) | A♭–D | F–B |
 
 - Each set: two pole mirrors, each holding the tritone the other swaps
@@ -163,12 +163,12 @@ tags:
 | --- | --- | --- | --- | --- |
 | E (T bright) | C♯°7, I8 | F | F–C, I5 | C♯°7 ✓ |
 | E♭ (T dark) | C°7, I6 | G | G–D, I9 | C°7 ✓ |
-| B (D bright) | B°7, It | C | C–G, I7 | B°7 ✓ |
+| B (D bright) | B°7, I10 | C | C–G, I7 | B°7 ✓ |
 | A♭ (S dark) | B°7, I4 | C | C–G, I7 | B°7 ✓ |
 | A (S bright) | C°7, I6 | B♭ | B♭–F, I3 | C°7 ✓ |
-| B♭ (D dark) | C♯°7, I8 | D | D–A, Ie | C♯°7 ✓ |
+| B♭ (D dark) | C♯°7, I8 | D | D–A, I11 | C♯°7 ✓ |
 
-- Inner tones land inside the window; outer tones (A, B♭) on the next centers out (I3, Ie = the other two centers of their sets)
+- Inner tones land inside the window; outer tones (A, B♭) on the next centers out (I3, I11 = the other two centers of their sets)
 - Color rule (spirals note §5): bright → down a fifth, dark → up; held tritone keeps the tone's color, swapped flips it
 - Each set held by two centers' tones resolves onto the third → home's set held by both flanks, lands home twice
 
@@ -197,7 +197,7 @@ tags:
 
 ## 9. Whole-tone layer
 
-- Pole intervals all even → every pole mirror keeps each whole-tone collection [0,2,4,6,8,t] / [1,3,5,7,9,e]
+- Pole intervals all even → every pole mirror keeps each whole-tone collection [0,2,4,6,8,10] / [1,3,5,7,9,11]
 - Center intervals all odd → every center swaps the two collections
 - Held tritones: E–B♭, C–F♯, A♭–D even · E♭–A, C♯–G, F–B odd → each set has one tritone in each collection
 - Home's center: swaps whole-tone collections and swaps C°7 ↔ C♯°7 → bright/dark exchange on both layers at once
@@ -287,7 +287,7 @@ tags:
 - Lendvai primary source: pole / counterpole = held tritone? any notion of a center between notes?
 - Oriented vs reversible by ear: home's set vs the pair
 - Other resolution direction (antipode roots) in the lattice: exact into which spelling of the far center?
-- Pole view in the lattice: I6 realized by E♭ 6/5 (C's line) and by A 27/16 (A's line) → one ET pole mirror, two lattice poles; same for I8, I4, It
+- Pole view in the lattice: I6 realized by E♭ 6/5 (C's line) and by A 27/16 (A's line) → one ET pole mirror, two lattice poles; same for I8, I4, I10
 - Five-anchor window (B♭–F … D–A): anything new, or the Latin square shifted?
 - Whole-tone layer (§9): structure or parity only?
 - B°7's four homes (C, E♭, F♯, A = both centers × tritone): do E♭'s and F♯'s stitched sets give two more lattice versions?
@@ -298,5 +298,5 @@ tags:
 
 - **One center, three layers:** clock face, I7 axis between E♭/E and A/B♭; six chords across the axis colored by layer: fifths (C–G, C♯–F♯), semitones (E♭–E, A–B♭), minor thirds (D–F, A♭–B); B°7 square highlighted
 - **Latin square as a triangle:** vertices S, T, D (centers); each edge = the set its two centers' tones hold (bright and dark holder at the ends); each vertex labeled with the set it fixes, arrow from the opposite edge
-- **Poles and centers on one clock face:** six even axes through tones (I0 … It) and six odd axes between tones (I1 … Ie), colored by the set each fixes; window's tones and three centers marked
+- **Poles and centers on one clock face:** six even axes through tones (I0 … I10) and six odd axes between tones (I1 … I11), colored by the set each fixes; window's tones and three centers marked
 - **Lattice strip, B°7:** F's spine and D's spine as two parallel minor-third lines, stitched set as the zigzag F–A♭ · D–B between them, comma gaps marked; C–G center shown
