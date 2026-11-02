@@ -3,3 +3,6 @@
 .DS_Store
 .trash/
 /.obsidian/
+
+# Source PDFs: copyrighted, synced by iCloud, not tracked
+**/02_Sources/**/*.pdf
