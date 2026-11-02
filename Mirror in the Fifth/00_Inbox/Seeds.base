@@ -1,0 +1,42 @@
+filters:
+  and:
+    - file.inFolder("00_Inbox/Seeds")
+    - type == "seed"
+properties:
+  note.status:
+    displayName: Status
+  note.touched:
+    displayName: Touched
+  note.lab:
+    displayName: Lab note
+views:
+  - type: table
+    name: By status
+    groupBy:
+      property: note.status
+      direction: ASC
+    order:
+      - file.name
+      - note.touched
+      - note.lab
+      - file.tags
+    sort:
+      - property: note.touched
+        direction: ASC
+  - type: table
+    name: Stale first
+    order:
+      - file.name
+      - note.status
+      - note.touched
+    sort:
+      - property: note.touched
+        direction: ASC
+  - type: table
+    name: Needs source
+    filters:
+      and:
+        - note.status == "needs-source"
+    order:
+      - file.name
+      - note.touched

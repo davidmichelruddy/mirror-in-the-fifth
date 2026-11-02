@@ -32,6 +32,27 @@ Depth that won't fit in a skeleton goes in research notes, not in the skeleton.
 - Skeletons link to them (`→ see [[Residue pitch – research]]`). Their text never goes into a chapter or essay.
 - AI-written text inside one of the author's notes goes in a `> [!ai]` callout so it stays visibly marked.
 
+## Source files
+
+- PDFs of books, theses and articles live in `02_Sources/PDF/`, named `Author – Short title (year).pdf`. While author or title is unconfirmed, use a descriptive name and rename once confirmed (updating links).
+- PDFs are git-ignored (copyrighted, and too large); iCloud syncs them. Don't add them to git.
+- Each source gets one source note in `02_Sources/` from the `Source Note` template (`type: source`): full citation, file link, which open questions or notes it bears on, and page-linked excerpts (`![[file.pdf#page=N]]`). `verified: false` until the author checks the citation details.
+- Web sources the author pastes in (blog posts, essays) are source notes too, with `url` and `date` in the frontmatter.
+- Source notes record what a source says; research notes (above) explain it. Keep them separate.
+
+## Inbox processing
+
+Daily notes are raw capture. Processing lifts fragments into **seeds**: topic threads in `00_Inbox/Seeds/`, from the `Seed` template (`type: seed`). The Lab is where the author riffs on a thread; processing never files things into `07_Lab/`.
+
+- **Daily note text stays as written.** Processing adds only `processed: <date>` to the frontmatter and a `→ [[Seed]]` after each routed line.
+- **Seeds hold the author's fragments**, lightly cleaned (spelling, Unicode accidentals, interval names, run-ons split), as bullets ending in `– [[YYYY-MM-DD]]`. Never rewrite them into prose.
+- **AI additions go in one `> [!ai] Questions, flags, links` callout** per seed: open questions, *citation needed*, checks, possible links, theorists. Short items only; anything needing explanation goes in a research note in `02_Sources/`, linked from the callout.
+- **Medium-broad threads.** Append to an existing seed when a fragment fits; start a new seed when none does. One home per fragment; other seeds link to it.
+- **Properties:** `status` (`think | to-read | needs-source | in-lab`), `touched` (date of the last fragment added), `lab` (link to the Lab note once one exists). Seeds keep collecting after they go `in-lab`. `00_Inbox/Seeds.base` shows them by status.
+- **Other routes:** a web source or a source tied to an existing thread → a source note in `02_Sources/`; a general reference → `00_Inbox/Reading queue.md`; app ideas → a seed tagged `seed/app`.
+- **Promotion is the author's call.** If a seed question bears on the structure, flag it in the callout as a candidate for the Restructured argument's open questions.
+- Process notes older than a few days; leave the current day's note alone. The author may prefix lines with `?` (question to think about) or `@` (source); unmarked lines get routed by judgment.
+
 ## Slop checklist
 
 Check your own output against this, and flag it in the author's drafts:
@@ -53,9 +74,9 @@ Check your own output against this, and flag it in the author's drafts:
 
 ## Vault layout
 
-- `00_Inbox/`: raw captures and rough ideas. Daily notes go in `00_Inbox/Daily/`.
+- `00_Inbox/`: raw captures and rough ideas. Daily notes go in `00_Inbox/Daily/`; seeds in `00_Inbox/Seeds/` (see Inbox processing).
 - `01_Meta/`: system files, prompts, and `Voice Sample.md` (passages in the author's own voice). Templates are in `01_Meta/Templates/` (Templater syntax: `<% tp.date.now("YYYY-MM-DD") %>`; daily notes are named `YYYY-MM-DD`).
-- `02_Sources/`: notes on papers, references, citations, and AI research notes.
+- `02_Sources/`: source notes, AI research notes, and the source PDFs in `02_Sources/PDF/` (see Source files).
 - `03_Substack/`: essays as they move through `01_Ideas/` → `02_Drafts/` → `03_Published/`.
 - `04_Assets/`: images and exported SVGs that notes embed.
 - `05_AppSync/`: data and diagram specs exchanged with the custom diagram web app.
