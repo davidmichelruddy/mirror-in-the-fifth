@@ -13,24 +13,24 @@ views:
   - type: table
     name: By status
     groupBy:
-      property: note.status
+      property: status
       direction: ASC
     order:
       - file.name
-      - note.touched
-      - note.lab
+      - touched
+      - lab
       - file.tags
     sort:
-      - property: note.touched
+      - property: touched
         direction: ASC
   - type: table
     name: Stale first
     order:
       - file.name
-      - note.status
-      - note.touched
+      - status
+      - touched
     sort:
-      - property: note.touched
+      - property: touched
         direction: ASC
   - type: table
     name: Needs source
@@ -39,4 +39,4 @@ views:
         - note.status == "needs-source"
     order:
       - file.name
-      - note.touched
+      - touched

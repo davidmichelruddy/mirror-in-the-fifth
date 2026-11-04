@@ -11,6 +11,11 @@ Passages in my own voice, written without AI. Paste 3–5 that sound most like m
 ### Prose
 
 <!-- Paragraphs of argument or explanation. Used for sentences, structure and positions. -->
+This model has given me the clearest understanding of musical relationships that I've found, and nobody has explained it plainly.
+
+The polar unit has two endpoints established, and generates two equal and opposite harmonic fields.
+
+It describes our process in trying to create communication paradigms for the abstract.
 
 ### Sensibility (verse)
 
