@@ -1,0 +1,9 @@
+Each of us has a unique musical journey. The sounds we hear in the home growing up, our early exposures to cultural and popular music, the repertoire and ideas passed down to us as we learn to sing or play an instrument, the sounds we notice that move us deeply and personally. Lullabies, friends, radio, holidays and algorithms all shape our understanding and perception of music. And for those who travel the path of honing the craft of music the repertoire, pedagogy and wisdom of our teachers and mentors as well. 
+
+Music is an abstract language that passes through us physically through vibrations in the air, it shapes us, it colors our occasions, it beckons us to move and it pulls at our heart strings. And broadly, we agree: music is a very powerful force, with almost magical power to fascinate, captivate and evoke. And yet, moving from the abstract to the specific proves to be extremely difficult with music. Communicating about music is difficult. Understanding music is difficult.
+
+Anecdote note:  I work in creative industries often with brilliant creatives, frequently involving music to picture. These are often people who are celebrated in their fields for being expert professional communicators. People have a really hard time communicating about music. They know it's power, they know what they want it to do, or how it should feel.
+
+Most of us seem to have very full and meaningful experiences of music without the need to understand it. It's enough hear it, know it and be moved by it. But for some of us we need more, we want to know the secrets to understand, to communicate, and to make.  
+
+As performers of music we are forced to examine the abstraction in concrete terms early in the process of learning an instrument. Tuning is one of the first things we are confronted with on our instruments. We are made to confront one of the most 

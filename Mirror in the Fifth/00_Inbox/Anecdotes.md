@@ -1,0 +1,1 @@
+Learning ii-V-I progressions - and the wondering why they didn't sound right
