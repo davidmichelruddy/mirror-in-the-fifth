@@ -28,7 +28,16 @@ Short. Hook → journey and why → compression planted.
 - **Compression planted** → [[Notes and anecdotes (tab)]] (quarry: idea only)
 	- theory as our attempt to communicate the abstract
 	- ii–V–I learned as a fast track to m7, 7, maj7 → stuck on iii–V7/ii · formula, no key or tonality → [[Anecdotes]]
+	- compression as tool too · tools to internalize, tools to navigate
+		- reading · chord symbols · solfège · scale degrees · modes of major
+		- the lattice doesn't replace them · it shows what each one packs
+	- improvisation as a gateway · the author's own way in · most of us enter through compressed concepts
+		- "here are the modes of major" · "play the blue note between 4 and 5 of the minor pentatonic" · tritone substitution
+		- each one pays off later on the lattice (Parallel mirror modes · The blues · The second mirror)
+	- perfect pitch · absolute vs relative hearing · the lattice is all relation (aside; placement open)
 - **How to use this book** · the app, Hear it, Mathieu for depth and singing practice
+	- the bandleader lesson: communicate in the modality players understand most comfortably · some can't read, some can only read → [[Anecdotes]]
+	- the book does the same: sound (app) · picture (lattice) · notation · singing
 
 ## Part II · The idea in brief
 
@@ -52,6 +61,14 @@ Step by step, overtonal. Possibly many chapters.
 - **Tuning a string** · the first confrontation → [[A Unique Musical Journey]]
 - **The overtone series** · laid out once, the source of everything after
 	- partials 1, 2, 4, 8 → C · 3, 6, 12 → G · 5, 10 → E · 9 → D · 15 → B
+- **Consonance and dissonance** · what the ear detects
+	- the ear as detector, tuned to the harmonic series · harmony = ear, brain and body reacting to what it detects
+	- the author's view: dissonance tracks how complexly the prime ratios fit together · 1:1 vs 135:128 (≈92¢ · three fifths and a third away)
+	- lineage: Euler's *gradus suavitatis* (1739) ranks ratios by their prime factors · Tenney's harmonic distance (*citations to check*)
+	- on the lattice: simple ratios sit close, complex ones far · the build adds ratios roughly in order of simplicity (check: a third step weighs more than a fifth step)
+	- the ET objection: a 400¢ third is a very complex ratio, yet not heard as harsh · the detector finds the nearby 5:4 and hears it slightly out of tune → paid off at Equal temperament
+	- one scale or two? roughness, beating (Helmholtz; Plomp and Levelt) · tension that wants to resolve (tritone, the hanging cadence) (open)
+	- payoffs later: the stories → The tritone · avoid notes → Bright side · dark side → [[Stories – dissonance and its reception]] · [[Hearing across the axis]]
 - **1:1** · unison
 - **2:1** · octave → identity
 	- octave folding: 9/4 → 9/8 · the ancestral F 2/3 → 4/3 · E♭ lands inside C–G
@@ -67,12 +84,19 @@ Step by step, overtonal. Possibly many chapters.
 	- → [[The Mirror in the Fifth (tab)#The founding premise: generation before ancestry]] (quarry)
 - **The spine** · fifths in both directions, Pythagorean
 	- windows: runs of consecutive fifths · placement sets the color: grown up from C, grown down from G, centered
-	- pentatonics: up from C, down from G · the thirdless pair on the poles · first glimpse of two fields
 	- centered windows only at even sizes: F C G D · B♭ F C G D A
 	- compression: letter names and spelling · sharps bright, flats dark
 	- key signatures as windows
 	- staff notation: spelling made visible · the spine mapped onto pitch height
 	- → [[The Mirror in the Fifth (tab)#Windows: the reach of the spine]] (quarry)
+- **Scales** · the familiar frame · where most musicians connect · spine + octave reduction = a collection laid out in a line
+	- why scales? · collections · linear · melody · singing
+	- chant (Gregorian) · tetrachords: the 4/3 span (the ancestral F) · two joined by the 9/8 F–G gap fill the octave
+	- octave reduction turns a window into a scale (back to 2:1)
+	- simplest first: pentatonics, Pythagorean · up from C (C D E G A), down from G (C E♭ F G B♭) · the thirdless pair on the poles · first glimpse of two fields
+	- a near-universal collection (*source needed*)
+	- compression as tool: solfège · scale degrees · modes of major
+	- forward: thirds change the step sizes (just major scale, 5-limit lattice) · scales as readouts (Coordinates)
 - **5:4** · C→E · thirds → color, the second dimension
 	- Euler's Tonnetz enters here
 - **The ancestral third** · E♭→G (G as E♭'s 5th partial) · the dark color
@@ -90,6 +114,7 @@ Step by step, overtonal. Possibly many chapters.
 	- a ruler for small distances: cents · syntonic comma ≈ 21.5¢ · Pythagorean comma ≈ 23.5¢ · dieses
 	- the bright third pulls its note down, the dark third pulls up, by the same amount
 	- compression: one spelling, two Es
+	- where the decode runs out: ET gives one key for both Es · the ear settles on one by context · the lattice shows which road was taken
 - **The 5-limit lattice** · complete picture
 	- regions: keys as shapes · roofs (major) and floors (minor)
 	- a region is a different C major from a window: E by one third, not four fifths
@@ -129,16 +154,21 @@ Step by step, overtonal. Possibly many chapters.
 - **The helix** · roll the slope into a cylinder · twelve pure fifths return one comma higher · the circle can't close
 	- height on the cylinder = distance from ET
 	- F♯ and G♭ · six fifths up vs six down · same key, two places · spelling remembers which arm
+	- where the decode runs out: one key, the ear hears the arm the context implies · the enharmonic turn is the decode switching arms
 	- credit Chew's Spiral Array (read first → [[Reading queue]])
 	- app: Helix and Zoom
 	- → [[The Mirror in the Fifth (tab)#Part IV: Landscape (the circle and the helix)]] (quarry)
 - **Equal temperament** · the biggest compression · the helix flattened into the circle · the comma erased · what's gained, what's hidden
 	- compression frame pays off here
+	- an elegant compression · the brain happily decodes it · the detector hears ET intervals as the simple ratios nearby (back to Consonance and dissonance)
+	- what decoding buys: marvelous feats of chromaticism · any key, any pivot, enharmonic turns (F♯ = G♭)
+	- the decode depends on the ratios still being there to find · the lattice is what's being decoded
 	- one-off: guitar tab
 - **The second mirror: the antipode** · on a circle every axis has two ends
 	- circle of fifths: C–G and F♯–C♯ · chromatic circle: E♭|E and A|B♭, a tritone apart
 	- local polarity (the unit, around a fifth) · global polarity (the tritone, across the circle)
 	- real in ET · in the lattice the far point splits: the arms don't meet (F♯ 25/18, G♭ 36/25) · the ET tritone their midpoint
+	- where the decode runs out: the ET tritone sits exactly between the arms · either reading is available · the tritone sub works because the ear can take either one
 	- B°7 as rootless 7♭9 of G and of D♭: the tritone sub
 	- → [[Hearing across the axis]]
 
@@ -162,6 +192,8 @@ Each a possible Substack piece.
 - **The two Ds** · ii's D 10/9 vs V's D 9/8 · the comma pump · linked to ii–V–I revisited: chord symbols hide location → spelling hides the comma
 	- the mirror of ii is ♭VII
 	- two B°7s a comma apart: predominant vs dominant
+	- where the decode runs out: ET gives one key for both Ds · the ear decides by function · the lattice shows what the ear is choosing between
+	- ET isn't hiding a mistake here · it hands the choice to the ear · the comma pump is a progression the ear decodes happily that couldn't close in just tuning
 - **The dominant seventh** · two dominants: G7 and the down-dominant C A♭ F D (credit Levy's negative dominants)
 	- m7♭5 is heard as m6 · the down-dominant is Fm6 (argued)
 	- which F is the seventh: the ancestral F · both tritone voices resolve by 16/15
