@@ -12,7 +12,7 @@ This book is an attempt to explain and clarify an elegant and insightful model o
 Music is replete with many layers of compression that you may recognize upon reflection - notation, chord symbols, moveable do, equal temperament. Compression describes our process in trying to create communication paradigms for the abstract. Central to this journey will be an examination of how and where this model of the Mirror in the Fifth can illuminate parts of the musical language where compression and abstraction have obscured or dulled key aspects of our experience. The reader will benefit from intuitive and functional explanations throughout the journey.
 
 
-Fragments only. History woven in where each figure matters. Compression returns wherever a notation is made or unpacked. Each Part III chapter ends with a **Hear it** → app (drone, ratios sounded).
+Fragments only. History woven in where each figure matters. Compression returns wherever a notation is made or unpacked. Each Part III chapter ends with a **Hear it** → app (drone, ratios sounded). Source detail for every item → [[Payoff inventory]]. "Tab" = [[The Mirror in the Fifth (tab)]] (quarry: ideas, not sentences).
 
 ## Part I · Introduction
 
@@ -42,6 +42,7 @@ Short. Hook → journey and why → compression planted.
 
 - introduced here, used throughout
 - drone · ratios sounded · lattice view
+- models: Growing the pentatonic · the Mirror Machine · Helix and Zoom · Gallery of Mirrors
 - → [[App – Lattice looper]]
 
 ## Part III · Building the lattice
@@ -51,56 +52,152 @@ Step by step, overtonal. Possibly many chapters.
 - **Tuning a string** · the first confrontation → [[A Unique Musical Journey]]
 - **1:1** · unison
 - **2:1** · octave → identity
-- **3:2** · fifth → the first new sound · the polar unit
-- **The spine** · fifths only, Pythagorean
-	- pentatonics: up from C, down from G · first glimpse of two fields
+	- the prime ladder: 1 fundamental · 2 identity · 3 generation · 5 color (Mathieu; Hauptmann; Levy's senarius)
+- **3:2** · C→G · generation · the first new sound · the polar unit
+- **Ancestry** · running the overtones backward · F→C (C as F's 3rd partial) · and the twin: G→D
+	- the first reflection · F–C ↔ G–D around the poles
+	- no undertone series needed · every dark note: "which note would have produced this one?"
+	- the ear supplies a source it doesn't hear · the missing fundamental (Schouten)
+	- → [[The Mirror in the Fifth (tab)#The founding premise: generation before ancestry]] (quarry)
+- **The spine** · fifths in both directions, Pythagorean
+	- windows: runs of consecutive fifths · placement sets the color: grown up from C, grown down from G, centered
+	- pentatonics: up from C, down from G · the thirdless pair on the poles · first glimpse of two fields
+	- centered windows only at even sizes: F C G D · B♭ F C G D A
 	- compression: letter names and spelling · sharps bright, flats dark
 	- key signatures as windows
 	- staff notation: spelling made visible · the spine mapped onto pitch height
-- **5:4** · thirds → color, the second dimension
+	- → [[The Mirror in the Fifth (tab)#Windows: the reach of the spine]] (quarry)
+- **5:4** · C→E · thirds → color, the second dimension
 	- Euler's Tonnetz enters here
+- **The ancestral third** · E♭→G (G as E♭'s 5th partial) · the dark color
+	- second reflection · C–E ↔ G–E♭
+	- where the map turns: Mathieu's first reciprocal third is A♭, "the ga below C" · here E♭, from the upper pole
+	- Coleman's half-step axis E♭–E falls out here: one color generated, one inferred
+- **Two triads** · C E G generated · C E♭ G inferred · two fields visible
+	- major: one ancestor, two offspring · minor: two ancestors, one offspring (von Oettingen)
+	- the same two thirds, 4:5 and 5:6, in opposite orders (Zarlino's two divisions of the fifth)
+	- each third sits over the middle of the fifth: major points up, minor down
+	- IV I V and iv i v on the same three anchors
 - **Two roads to E** · four fifths vs one third → the comma
+	- the bright third pulls its note down, the dark third pulls up, by the same amount
 	- compression: one spelling, two Es
 - **The 5-limit lattice** · complete picture
-- **The mirror** · half-turn around the C–G midpoint · climax of Part III: the symmetry of the lattice itself
+	- regions: keys as shapes · roofs (major) and floors (minor)
+	- a region is a different C major from a window: E by one third, not four fifths
+- **The mirror** · half-turn around the C–G midpoint · climax of Part III: the symmetry of the lattice itself · naming what's already been built (F–C ↔ G–D, C–E ↔ G–E♭)
 	- payoff: the Cal moment
+	- the hexagon: parallel C major + C minor · the picture of the whole mirror
+	- two fixed objects: C–G (rest) · B°7 (tension)
+	- two kinds of mirror: around a tone (C major ↔ F minor) · around a pair (C major ↔ C minor)
 	- the dualists: the mirror seen, around a single tone
 	- Levy: undertones from C → C major mirrors to F minor · telluric adaptation
 	- premises cleared up: single-pitch origin · poles, not roots
 	- Mathieu: reciprocity around the tonic · the C–G midpoint noticed (B°7, ch. 31)
-- **Coordinates** · addresses on the lattice · the book's own compression → [[The Mirror in the Fifth (tab)#Coordinates]] (quarry)
+	- Collier aside: negative-harmony pairs sum to 7 semitones
+	- app: the Mirror Machine
+- **The slope** · gravity · tilt the lattice: every fifth falls to its root
+	- the slope is a visual cue, not a coordinate · the mirror moves notes, "down" stays put
+	- the structure mirrors, the pull doesn't · the root at the bottom of the P5, separate from the mirror
+	- sharp side brighter and higher · flat side darker and lower
+	- ii–V–I and circle progressions as falling
+	- → [[The Mirror in the Fifth (tab)#Part III: Forces (the slope)]] (quarry)
+- **Coordinates** · addresses: power of 3, power of 5 · C at the origin · the book's own compression
+	- twins add up to the fifth: color equal and opposite, generation balanced on one fifth
+	- intervals as vectors: 9/8 vs 10/9 · 16/15 · 25/24
+	- the mirror reverses every vector: B→C becomes A♭→G
+	- scales are readouts, not sources (compression)
+	- → [[The Mirror in the Fifth (tab)#Coordinates]] (quarry)
 - **The duodene** · twelve notes as a window on the lattice · hinge into ET (Ellis; *citation needed*)
-- **Equal temperament** · the biggest compression · the comma erased, the circle closes · what's gained, what's hidden
+- **The helix** · roll the slope into a cylinder · twelve pure fifths return one comma higher · the circle can't close
+	- height on the cylinder = distance from ET
+	- F♯ and G♭ · six fifths up vs six down · same key, two places · spelling remembers which arm
+	- credit Chew's Spiral Array (read first → [[Reading queue]])
+	- app: Helix and Zoom
+	- → [[The Mirror in the Fifth (tab)#Part IV: Landscape (the circle and the helix)]] (quarry)
+- **Equal temperament** · the biggest compression · the helix flattened into the circle · the comma erased · what's gained, what's hidden
 	- compression frame pays off here
 	- one-off: guitar tab
+- **The second mirror: the antipode** · on a circle every axis has two ends
+	- circle of fifths: C–G and F♯–C♯ · chromatic circle: E♭|E and A|B♭, a tritone apart
+	- local polarity (the unit, around a fifth) · global polarity (the tritone, across the circle)
+	- real in ET · in the lattice the far point splits: the arms don't meet (F♯ 25/18, G♭ 36/25) · the ET tritone their midpoint
+	- B°7 as rootless 7♭9 of G and of D♭: the tritone sub
+	- → [[Hearing across the axis]]
 
 ## Part IV · Examples
 
 Each a possible Substack piece.
 
-- bright side · dark side · Cal moment as known ground
-- major and minor triads
-- pentatonic collections, mirrored, with thirds
-- parallel mirror modes · Ionian ↔ Aeolian · Dorian ↔ Mixolydian · Lydian ↔ Phrygian
-- relative major/minor · Mathieu's C–E symmetry beside the parallel mirror
-- borrowed chords · iv in major · Picardy third · modal mixture
-- V–I ↔ iv–i · authentic and minor plagal as mirror twins
+- **Bright side · dark side** · Cal moment as known ground · [[Hearing across the axis]]: avoid notes, P4 over M3 vs M7 in minor
+- **Major and minor triads**
+- **Pentatonic collections**, mirrored, with thirds
+- **Parallel mirror modes** · Ionian ↔ Aeolian · Dorian ↔ Mixolydian · Lydian ↔ Phrygian
+	- twin palindromes: Dorian on C, Mixolydian on G · A and B♭ a mirror pair
+	- Dorian i–IV ↔ Mixolydian I–v · Mixolydian I–♭VII–IV ↔ Dorian i–ii–v
+	- the brightness ladder · Temperley and Tan
+	- two views: parallel (one root) vs diatonic (one collection)
+	- Locrian has no root (argued) · Lydian keeps its anchor
+- **Relative major/minor** · Mathieu's C–E symmetry beside the parallel mirror
+- **Borrowed chords** · iv in major · Picardy third · modal mixture
+- **Cadences as mirror motions** · V–I ↔ iv–i · IV–I ↔ v–i → [[Cadence and the balance of sides]]
 - **ii–V–I revisited** · chord symbols vs places on the lattice · iii–V7/ii as a path through a key region · payoff of the intro anecdote
-- the two Ds · the comma pump · linked to ii–V–I revisited: chord symbols hide location → spelling hides the comma
-- the dominant seventh
-- the tritone · B→C, F→E ↔ A♭→G, D→E♭ → [[Tritone – character and resolution]] · [[Stories – dissonance and its reception]]
-- diminished · B D F A♭ · cadential energies from both poles
-- the blues · dark notes over a bright frame → [[Restructured argument (tab)#Working note: the 12-bar blues]] (quarry)
-- a melody mirrored · familiar tune flipped · where readers met Collier
-- complex jazz harmony · melodic minor ↔ altered scale
+- **The two Ds** · ii's D 10/9 vs V's D 9/8 · the comma pump · linked to ii–V–I revisited: chord symbols hide location → spelling hides the comma
+	- the mirror of ii is ♭VII
+	- two B°7s a comma apart: predominant vs dominant
+- **The dominant seventh** · two dominants: G7 and the down-dominant C A♭ F D (credit Levy's negative dominants)
+	- m7♭5 is heard as m6 · the down-dominant is Fm6 (argued)
+	- which F is the seventh: the ancestral F · both tritone voices resolve by 16/15
+- **The tritone** · two species, three bright, three dark · crossed resolutions B→C, F→E ↔ A♭→G, D→E♭ → [[Tritone – character and resolution]] · [[Stories – dissonance and its reception]]
+- **Diminished** · B D F A♭ · cadential energies from both poles
+	- the key collections' edges: F–B and A♭–D → together B°7
+	- modes as slices of B°7 · mode edges cycle through the three dim7s
+	- octatonic = two dim7s
+- **The diminished trinity** · one dim7 per anchor: C♯°7 (S) · B°7 (T) · C°7 (D) · inside and outside
+	- outside means reach: each dim7 resolves four ways
+	- two routes to each tension: the pole's mirror + the ancestor's minor-third spine
+	- held and swapped tritones → [[Color-tone spirals – held and swapped tritones]] · [[The diminished trinity]] · [[Trinity reconciled – three dim7s from the color tones]]
+- **Express lanes** · the other two spines: major thirds (3 per lap) · minor thirds (4 per lap) · 12 = 3 × 4
+	- augmented and diminished are not polar triads
+	- minor thirds stay in the family · major thirds leave · P, R, L (Cohn)
+	- Giant Steps: a lap of the augmented helix
+- **Moving the anchor** · modulation moves the zoom, not the lattice · app: Helix and Zoom
+- **The blues** · the anchor window IV I V → [[Restructured argument (tab)#Working note: the 12-bar blues]] (quarry)
+	- bar 4's ♭7 re-addresses toward F
+	- two cadences, both sides of the window
+	- sevenths on I: B♭ leans out, B leans in, A is B♭'s twin
+	- the mirrored blues: C7 ↔ Cm6, F7 ↔ Gm6, G7 ↔ Fm6
+- **A melody mirrored** · familiar tune flipped · where readers met Collier
+- **Complex jazz harmony** · A melodic minor up ↔ B♭ melodic minor down · D Lydian dominant ↔ the F scale down = G altered (credit Levy)
+	- what the names hide: "7th mode of A♭ melodic minor" · m7♭5 over the dominant
+	- re-addressing: the mirrored C♭ heard as B
+	- Coleman hears Parker's substitutes as "minor iv to I"
+- **Gallery of mirrors** · harmonic major ↔ harmonic minor · Lydian dominant ↔ Phrygian ♮6 · Mixolydian ♭6 ↔ melodic minor · Cmaj7 ↔ A♭maj7 · C E G♯ ↔ G E♭ C♭ · app: Gallery of Mirrors
 
 ## Part V · Advanced
 
 - **Coleman** · mentor, symmetrical movement → [[Coleman – Symmetrical Movement Concept]]
-- into the symmetrical theories
-- pitch-class operations · pitch axis
-- interval sets → [[Symmetrical and Non-Symmetrical Interval Sets]]
+	- his two spirals = the two kinds of mirror · the sum-7 axis
+- **Into the symmetrical theories**
+- **Pitch-class operations** · pitch axis · steps cross triangle edges = neo-Riemannian L, R, P
+- **Interval sets** → [[Symmetrical and Non-Symmetrical Interval Sets]]
+	- the trinity in pitch-class terms: odd sum = center, even sum = pole · one set fixed, two exchanged → [[The diminished trinity]]
+	- resolution law: tension held at a pole, released at a center
+	- minor home: parallel minor shares the center
+- **Lendvai's axis system** · checked against the trinity → [[Lendvai's axis system]]
+
+## Parked
+
+Not in the book for now → [[Payoff inventory]]
+
+- window edges: size sets the energy (author likes it, confirm first)
+- arrival order of the dark degrees · only the light flats in the blues
+- where gravity stops · stability and brightness as two dimensions
+- blue notes on the axis
+- extended harmony as terraces
+- boundary at 5 · septimal mesh
+- centered coordinates
 
 ## Open questions
 
 - ii–V–I revisited and the two Ds: one chapter in two layers, or two linked chapters?
+- read Chew before writing the helix
