@@ -11,6 +11,8 @@ This book is an attempt to explain and clarify an elegant and insightful model o
 
 Music is replete with many layers of compression that you may recognize upon reflection - notation, chord symbols, moveable do, equal temperament. Compression describes our process in trying to create communication paradigms for the abstract. Central to this journey will be an examination of how and where this model of the Mirror in the Fifth can illuminate parts of the musical language where compression and abstraction have obscured or dulled key aspects of our experience. The reader will benefit from intuitive and functional explanations throughout the journey.
 
+**The goal:** someone sits at a piano, plays C and G, and can't hear them the old way.
+
 
 Fragments only. History woven in where each figure matters. Compression returns wherever a notation is made or unpacked. Each Part III chapter ends with a **Hear it** → app (drone, ratios sounded). Source detail for every item → [[Payoff inventory]]. "Tab" = [[The Mirror in the Fifth (tab)]] (quarry: ideas, not sentences).
 
@@ -87,6 +89,7 @@ Step by step, overtonal. Possibly many chapters. Four modules · each ends with 
 	- why simple ratios sound smooth: shared partials, no beating (Helmholtz; *citation to check*)
 - **Checkpoint**
 	- hear: octave as sameness · fifth as stillness over the drone · pure vs ET fifth, nearly identical
+	- see: the series as a column of partials · octave folding pulling them into one octave · C–G as the first edge
 	- know: partials as the source · intervals as ratios · only primes open new directions
 	- → needed for: Ancestry · The spine
 
@@ -132,7 +135,8 @@ Step by step, overtonal. Possibly many chapters. Four modules · each ends with 
 	- where the decode runs out: ET gives one key for both Es · the ear settles on one by context · the lattice shows which road was taken
 - **Checkpoint**
 	- hear: bright and dark thirds over the drone · C E G vs C E♭ G on the same poles · the two Es (comma glide)
-	- know: generated vs inferred · the spine and its windows · sharps bright, flats dark · cents
+	- see: the spine as a line of fifths, windows sliding along it · thirds opening the second dimension · the two triangles on C–G, one pointing up, one down · two roads ending at two Es
+	- know: generated vs inferred · sharps bright, flats dark · cents
 	- → needed for: The 5-limit lattice · The mirror
 
 ### 3 · The lattice and the mirror
@@ -180,7 +184,8 @@ Step by step, overtonal. Possibly many chapters. Four modules · each ends with 
 	- → [[The Mirror in the Fifth (tab)#Coordinates]] (quarry)
 - **Checkpoint**
 	- hear: C major ↔ C minor as one mirror motion · the two half steps (25/24 ≈ 71¢ vs 16/15 ≈ 112¢) · a fifth falling to its root
-	- know: the lattice as triangles · the hexagon · the mirror as a half-turn around the C–G midpoint · poles, not roots · coordinates
+	- see: the lattice as triangles · the hexagon · the half-turn around the C–G midpoint · the chromatic highway pointing north · the slope
+	- know: the mirror as one motion that swaps the fields · poles, not roots · coordinates
 	- → needed for: The helix · Equal temperament · Part IV
 
 ### 4 · Closing the circle
@@ -208,7 +213,8 @@ Step by step, overtonal. Possibly many chapters. Four modules · each ends with 
 	- → [[Hearing across the axis]]
 - **Checkpoint** · the gate to Part IV
 	- hear: ET intervals decoded as the nearby ratios · F♯ and G♭, one key, two places · the tritone read from either arm
-	- know: the circle as the flattened helix · the comma erased · local vs global polarity
+	- see: the slope rolled into the helix · twelve fifths landing a comma higher · the circle as the helix flattened · the two arms not meeting at the tritone
+	- know: the comma erased · local vs global polarity
 	- → needed for: Part IV examples (The two Ds · The tritone · Complex jazz harmony)
 
 ## Part IV · Examples
