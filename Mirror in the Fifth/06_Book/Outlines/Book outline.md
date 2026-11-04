@@ -152,6 +152,12 @@ Step by step, overtonal. Possibly many chapters. Four modules · each ends with 
 - **The mirror** · half-turn around the C–G midpoint · climax of Part III: the symmetry of the lattice itself · naming what's already been built (F–C ↔ G–D, C–E ↔ G–E♭)
 	- payoff: the Cal moment
 	- the hexagon: parallel C major + C minor · the picture of the whole mirror
+	- the centre: geometric middle of C–G · √(3/2) · ≈351¢ · lattice point (½, 0) · no note there
+		- E and E♭ either side, ≈35¢ each way · the pendular third, now seen as a pair around the centre
+		- same centre: C–G midpoint = E–E♭ midpoint
+		- E/E♭ as the reflection point? · light world ↔ dark mirror world · the arithmetic works · but the midpoint is a non-real place · the fifth carries just enough to instantiate the generative and ancestral sides of both worlds → the mirror named by C–G (author's view)
+		- the three means: E arithmetic, E♭ harmonic, axis geometric (in frequency ratios) · Zarlino's labels flipped (string lengths) → aside only
+		- → [[Dividing the fifth – research]]
 	- two fixed objects: C–G (rest) · B°7 (tension)
 	- two kinds of mirror: around a tone (C major ↔ F minor) · around a pair (C major ↔ C minor)
 	- the dualists: the mirror seen, around a single tone

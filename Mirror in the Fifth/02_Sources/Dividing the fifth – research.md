@@ -71,7 +71,7 @@ Yes. In chat I said "major = arithmetic, minor = harmonic." That's true **for fr
 - The geometric mean doesn't move under the swap (√(15·10) and √(4·6) both give the same ≈351¢ point). The arithmetic and harmonic means trade places, but the axis stays fixed.
 - [[Symmetric Questions]] uses Zarlino's convention ("E … the Harmonic Mean … from the perspective of string proportions"). That's consistent with this table.
 
-**For the book:** if the Hz version leads, the means come out in frequency terms (E arithmetic). Citing Zarlino then needs the length/frequency flip, or it will look like a contradiction.
+**For the book:** the author's decision (2026-11-04) is that ratios lead and hertz comes second. Frequency ratios give the same assignment as hertz: E is the arithmetic mean and E♭ the harmonic. Citing Zarlino therefore still needs the length/frequency flip, or it will look like a contradiction.
 
 ## Q: What exactly does Zarlino say?
 
