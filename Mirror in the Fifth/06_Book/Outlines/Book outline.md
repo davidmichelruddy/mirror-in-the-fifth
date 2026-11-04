@@ -62,7 +62,7 @@ Short. Hook → journey and why → compression planted.
 
 ## Part III · Building the lattice
 
-Step by step, overtonal. Possibly many chapters. Four modules · a pause after each · what the reader can now hear.
+Step by step, overtonal. Possibly many chapters. Four modules · each ends with a **Checkpoint**: what the next module relies on, heard and known · listening runs throughout, the checkpoint is the gate.
 
 ### 1 · The raw material
 
@@ -85,6 +85,10 @@ Step by step, overtonal. Possibly many chapters. Four modules · a pause after e
 	- why stop at 5: the book stays in the 5-limit (7 parked)
 - **3:2** · C→G · generation · the first new sound · the polar unit
 	- why simple ratios sound smooth: shared partials, no beating (Helmholtz; *citation to check*)
+- **Checkpoint**
+	- hear: octave as sameness · fifth as stillness over the drone · pure vs ET fifth, nearly identical
+	- know: partials as the source · intervals as ratios · only primes open new directions
+	- → needed for: Ancestry · The spine
 
 ### 2 · The spine and the thirds
 
@@ -126,6 +130,10 @@ Step by step, overtonal. Possibly many chapters. Four modules · a pause after e
 	- the bright third pulls its note down, the dark third pulls up, by the same amount
 	- compression: one spelling, two Es
 	- where the decode runs out: ET gives one key for both Es · the ear settles on one by context · the lattice shows which road was taken
+- **Checkpoint**
+	- hear: bright and dark thirds over the drone · C E G vs C E♭ G on the same poles · the two Es (comma glide)
+	- know: generated vs inferred · the spine and its windows · sharps bright, flats dark · cents
+	- → needed for: The 5-limit lattice · The mirror
 
 ### 3 · The lattice and the mirror
 
@@ -164,6 +172,10 @@ Step by step, overtonal. Possibly many chapters. Four modules · a pause after e
 	- the mirror reverses every vector: B→C becomes A♭→G
 	- scales are readouts, not sources (compression)
 	- → [[The Mirror in the Fifth (tab)#Coordinates]] (quarry)
+- **Checkpoint**
+	- hear: C major ↔ C minor as one mirror motion · the two half steps (25/24 ≈ 71¢ vs 16/15 ≈ 112¢) · a fifth falling to its root
+	- know: the lattice as triangles · the hexagon · the mirror as a half-turn around the C–G midpoint · poles, not roots · coordinates
+	- → needed for: The helix · Equal temperament · Part IV
 
 ### 4 · Closing the circle
 
@@ -188,6 +200,10 @@ Step by step, overtonal. Possibly many chapters. Four modules · a pause after e
 	- where the decode runs out: the ET tritone sits exactly between the arms · either reading is available · the tritone sub works because the ear can take either one
 	- B°7 as rootless 7♭9 of G and of D♭: the tritone sub
 	- → [[Hearing across the axis]]
+- **Checkpoint** · the gate to Part IV
+	- hear: ET intervals decoded as the nearby ratios · F♯ and G♭, one key, two places · the tritone read from either arm
+	- know: the circle as the flattened helix · the comma erased · local vs global polarity
+	- → needed for: Part IV examples (The two Ds · The tritone · Complex jazz harmony)
 
 ## Part IV · Examples
 
