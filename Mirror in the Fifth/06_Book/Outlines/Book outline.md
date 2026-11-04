@@ -87,6 +87,10 @@ Step by step, overtonal. Possibly many chapters. Four modules · each ends with 
 	- why stop at 5: the book stays in the 5-limit (7 parked)
 - **3:2** · C→G · generation · the first new sound · the polar unit
 	- why simple ratios sound smooth: shared partials, no beating (Helmholtz; *citation to check*)
+	- the power chord · C5 · the polar unit as a sound most readers already know
+		- examples: Nirvana "Smells Like Teen Spirit" (F5 B♭5 A♭5 D♭5) · Green Day "Basket Case", "Brain Stew" (*check voicings*)
+		- "root and 5th" · the guitarist's name is root talk · name the difference once: poles here, root-at-the-bottom a separate fact
+		- why it suits distortion: intermodulation · 3:2's difference tone lands on the series (the fundamental, an octave below C) · thirds turn muddy (*citation needed*)
 - **Checkpoint**
 	- hear: octave as sameness · fifth as stillness over the drone · pure vs ET fifth, nearly identical
 	- see: the series as a column of partials · octave folding pulling them into one octave · C–G as the first edge
@@ -128,6 +132,8 @@ Step by step, overtonal. Possibly many chapters. Four modules · each ends with 
 	- every triangle has three edges: fifth · major third · minor third · the three directions for reading any shape
 	- IV I V and iv i v on the same three anchors
 	- the pendular third · E ↔ E♭ across the axis · the distance between them is the half step (25/24)
+	- back to the power chord · no third, neither major nor minor · both fields latent · "works over major or minor" = the poles before color is chosen
+		- the riff or vocal supplies the third · the moment a field gets picked (*find a song example*)
 - **Two roads to E** · four fifths vs one third → the comma
 	- a ruler for small distances: cents · syntonic comma ≈ 21.5¢ · Pythagorean comma ≈ 23.5¢ · dieses
 	- the bright third pulls its note down, the dark third pulls up, by the same amount
@@ -163,6 +169,7 @@ Step by step, overtonal. Possibly many chapters. Four modules · each ends with 
 		- the three means: E arithmetic, E♭ harmonic, axis geometric (in frequency ratios) · Zarlino's labels flipped (string lengths) → aside only
 		- → [[Dividing the fifth – research]]
 	- two fixed objects: C–G (rest) · B°7 (tension)
+		- the power chord is C–G · the mirror swaps its notes and leaves the chord unchanged
 	- two kinds of mirror: around a tone (C major ↔ F minor) · around a pair (C major ↔ C minor)
 	- the dualists: the mirror seen, around a single tone
 	- Levy: undertones from C → C major mirrors to F minor · telluric adaptation
