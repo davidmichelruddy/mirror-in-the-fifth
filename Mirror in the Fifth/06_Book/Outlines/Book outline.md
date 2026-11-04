@@ -78,12 +78,20 @@ Step by step, overtonal. Possibly many chapters.
 	- the same two thirds, 4:5 and 5:6, in opposite orders (Zarlino's two divisions of the fifth)
 	- each third sits over the middle of the fifth: major points up, minor down
 	- IV I V and iv i v on the same three anchors
+	- the pendular third · E ↔ E♭ across the axis · the distance between them is the half step (25/24)
 - **Two roads to E** · four fifths vs one third → the comma
 	- the bright third pulls its note down, the dark third pulls up, by the same amount
 	- compression: one spelling, two Es
 - **The 5-limit lattice** · complete picture
 	- regions: keys as shapes · roofs (major) and floors (minor)
 	- a region is a different C major from a window: E by one third, not four fifths
+- **The chromatic highway** · the true north–south road · born from the pendular third
+	- on the infinite lattice: north and east sharp · south and west flat
+	- in the triangle lattice the chromatic semitone points straight north, at right angles to the spine
+	- north: same letter, more sharps, brighter (E♭ → E → E♯) · south: more flats, darker (E → E♭ → E𝄫)
+	- two half steps: chromatic 25/24, letter stays (E♭–E) · diatonic 16/15, letter changes, the overtonal pull of the leading tone (B–C, A♭–G) · different energies
+	- compression: ET makes them one size · E♯ = F on the keyboard · spelling remembers which half step
+	- echoes: the blues' IV7 → I carries E♭ to E · neo-Riemannian P · Coleman's half-step axis
 - **The mirror** · half-turn around the C–G midpoint · climax of Part III: the symmetry of the lattice itself · naming what's already been built (F–C ↔ G–D, C–E ↔ G–E♭)
 	- payoff: the Cal moment
 	- the hexagon: parallel C major + C minor · the picture of the whole mirror

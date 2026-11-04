@@ -71,6 +71,7 @@ tags:
 | Twins add up to the fifth, (1, 0): color equal and opposite, generation balanced | Tab · The mirror: twins add up | Der | III · The mirror |
 | Intervals as vectors: 9/8 vs 10/9 · 16/15 · 25/24 | Tab · Intervals are vectors | Der | III · Coordinates |
 | The mirror reverses every vector: B→C becomes A♭→G | Tab · Intervals are vectors | Der | III · The mirror |
+| The chromatic highway: the pendular third E ↔ E♭ gives the half step (25/24) · points straight north in the triangle lattice · north = sharps, brighter · south = flats, darker · chromatic (25/24) vs diatonic (16/15) half step, different energies | Author, 2026-11-03 · Tab · Intervals are vectors, Steps cross edges, Two lines of centers | Der (geometry checked) | III · The chromatic highway **NEW** |
 | Steps cross triangle edges = neo-Riemannian L, R, P | Tab · Steps cross edges | Der (Cohn) | V · or III · Coordinates aside |
 | Centered coordinates (2a − 1): twins exact negatives | Tab · Coordinates | Der | Park (computation, app) |
 | Scales are readouts, not sources · readouts can mislead | Tab · Scales are readouts | Der | Compression thread · III · ET; IV · Jazz |
