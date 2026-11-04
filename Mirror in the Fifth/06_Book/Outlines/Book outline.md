@@ -18,7 +18,7 @@ Fragments only. History woven in where each figure matters. Compression returns 
 
 Short. Hook → journey and why → compression planted.
 
-- **Hook** · the Cal ear-training moment · a major third down heard as minor · question left open → paid off at The mirror / Bright side · dark side → [[Notes and anecdotes (tab)]]
+- **Hook** · the Cal ear-training moment · a major third down heard as minor · question left open → paid off at The mirror (Part III) → [[Notes and anecdotes (tab)]]
 - **Journey and why** · one movement, wide to narrow → [[A Unique Musical Journey]] · [[Why this book?]]
 	- everyone's path: home, radio, teachers
 	- music moves us · talking about it is hard · creative professionals who can't
@@ -28,7 +28,6 @@ Short. Hook → journey and why → compression planted.
 - **Compression planted** → [[Notes and anecdotes (tab)]] (quarry: idea only)
 	- theory as our attempt to communicate the abstract
 	- ii–V–I learned as a fast track to m7, 7, maj7 → stuck on iii–V7/ii · formula, no key or tonality → [[Anecdotes]]
-- **Lineage at a glance** · Euler → dualists → Levy → Mathieu → Coleman (detail woven through later)
 - **How to use this book** · the app, Hear it, Mathieu for depth and singing practice
 
 ## Part II · The idea in brief
@@ -57,12 +56,13 @@ Step by step, overtonal. Possibly many chapters.
 	- pentatonics: up from C, down from G · first glimpse of two fields
 	- compression: letter names and spelling · sharps bright, flats dark
 	- key signatures as windows
+	- staff notation: spelling made visible · the spine mapped onto pitch height
 - **5:4** · thirds → color, the second dimension
 	- Euler's Tonnetz enters here
 - **Two roads to E** · four fifths vs one third → the comma
 	- compression: one spelling, two Es
 - **The 5-limit lattice** · complete picture
-- **The mirror** · half-turn around the C–G midpoint
+- **The mirror** · half-turn around the C–G midpoint · climax of Part III: the symmetry of the lattice itself
 	- payoff: the Cal moment
 	- the dualists: the mirror seen, around a single tone
 	- Levy: undertones from C → C major mirrors to F minor · telluric adaptation
@@ -78,7 +78,7 @@ Step by step, overtonal. Possibly many chapters.
 
 Each a possible Substack piece.
 
-- bright side · dark side · (alt. payoff for the Cal moment)
+- bright side · dark side · Cal moment as known ground
 - major and minor triads
 - pentatonic collections, mirrored, with thirds
 - parallel mirror modes · Ionian ↔ Aeolian · Dorian ↔ Mixolydian · Lydian ↔ Phrygian
@@ -86,7 +86,7 @@ Each a possible Substack piece.
 - borrowed chords · iv in major · Picardy third · modal mixture
 - V–I ↔ iv–i · authentic and minor plagal as mirror twins
 - **ii–V–I revisited** · chord symbols vs places on the lattice · iii–V7/ii as a path through a key region · payoff of the intro anecdote
-- the two Ds · the comma pump · (merge with ii–V–I revisited?)
+- the two Ds · the comma pump · linked to ii–V–I revisited: chord symbols hide location → spelling hides the comma
 - the dominant seventh
 - the tritone · B→C, F→E ↔ A♭→G, D→E♭ → [[Tritone – character and resolution]] · [[Stories – dissonance and its reception]]
 - diminished · B D F A♭ · cadential energies from both poles
@@ -103,8 +103,4 @@ Each a possible Substack piece.
 
 ## Open questions
 
-- the mirror: end of Part III, or its own part?
-- lineage at a glance: needed, or fully woven?
-- Cal payoff: The mirror or Bright side · dark side?
-- ii–V–I revisited and the two Ds: one chapter or two?
-- staff notation: its own stop, or folded into spelling?
+- ii–V–I revisited and the two Ds: one chapter in two layers, or two linked chapters?
