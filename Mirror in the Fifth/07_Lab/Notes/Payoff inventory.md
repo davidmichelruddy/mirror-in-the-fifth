@@ -188,7 +188,7 @@ Not from the Lab: explanatory steps the build needs.
 | [[Tritone – character and resolution]]: preparation · resolves strongly to M3/m6 · octatonic = two dim7s | IV · The tritone · Diminished |
 | [[Stories – dissonance and its reception]]: devil · Mozart's sister · Rite of Spring | IV · The tritone (anecdotes) |
 | [[Lendvai's axis system]] | V · Lendvai |
-| [[App – Lattice looper]] | Part II · The app |
+| [[App – Polar Lattice]] | Part II · The app |
 
 ## L. Figures already designed
 

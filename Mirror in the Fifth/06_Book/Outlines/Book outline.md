@@ -43,7 +43,7 @@ Short. Hook → journey and why → compression planted.
 - introduced here, used throughout
 - drone · ratios sounded · lattice view
 - models: Growing the pentatonic · the Mirror Machine · Helix and Zoom · Gallery of Mirrors
-- → [[App – Lattice looper]]
+- → [[App – Polar Lattice]]
 
 ## Part III · Building the lattice
 
