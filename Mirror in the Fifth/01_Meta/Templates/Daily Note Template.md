@@ -5,4 +5,3 @@ tags:
   - log/daily
 ---
 
-- <% tp.file.cursor() %>

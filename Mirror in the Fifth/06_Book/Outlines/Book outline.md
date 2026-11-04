@@ -246,8 +246,3 @@ Not in the book for now → [[Payoff inventory]]
 - extended harmony as terraces
 - boundary at 5 · septimal mesh
 - centered coordinates
-
-## Open questions
-
-- ii–V–I revisited and the two Ds: one chapter in two layers, or two linked chapters?
-- read Chew before writing the helix
