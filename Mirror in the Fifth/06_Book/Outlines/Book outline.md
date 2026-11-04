@@ -52,11 +52,19 @@ Short. Hook → journey and why → compression planted.
 - introduced here, used throughout
 - drone · ratios sounded · lattice view
 - models: Growing the pentatonic · the Mirror Machine · Helix and Zoom · Gallery of Mirrors
+- ear training before the build · drone + one interval · pure vs ET (the ET toggle) · harmonic timbre so beating is audible
+	- 3:2 vs 700¢ · ≈2¢ apart · barely different · the fifth survives ET
+	- 5:4 vs 400¢ · ≈14¢ apart · the ET third shimmers, the pure one sits still
+	- what to listen for: beating · stillness · color
+	- the comma itself waits for Part III (Two roads to E)
+	- sets up: Consonance and dissonance · Two roads to E · Equal temperament
 - → [[App – Polar Lattice]]
 
 ## Part III · Building the lattice
 
-Step by step, overtonal. Possibly many chapters.
+Step by step, overtonal. Possibly many chapters. Four modules · a pause after each · what the reader can now hear.
+
+### 1 · The raw material
 
 - **Tuning a string** · the first confrontation → [[A Unique Musical Journey]]
 - **The overtone series** · laid out once, the source of everything after
@@ -77,6 +85,9 @@ Step by step, overtonal. Possibly many chapters.
 	- why stop at 5: the book stays in the 5-limit (7 parked)
 - **3:2** · C→G · generation · the first new sound · the polar unit
 	- why simple ratios sound smooth: shared partials, no beating (Helmholtz; *citation to check*)
+
+### 2 · The spine and the thirds
+
 - **Ancestry** · running the overtones backward · F→C (C as F's 3rd partial) · and the twin: G→D
 	- the first reflection · F–C ↔ G–D around the poles
 	- no undertone series needed · every dark note: "which note would have produced this one?"
@@ -115,6 +126,9 @@ Step by step, overtonal. Possibly many chapters.
 	- the bright third pulls its note down, the dark third pulls up, by the same amount
 	- compression: one spelling, two Es
 	- where the decode runs out: ET gives one key for both Es · the ear settles on one by context · the lattice shows which road was taken
+
+### 3 · The lattice and the mirror
+
 - **The 5-limit lattice** · complete picture
 	- regions: keys as shapes · roofs (major) and floors (minor)
 	- a region is a different C major from a window: E by one third, not four fifths
@@ -150,6 +164,9 @@ Step by step, overtonal. Possibly many chapters.
 	- the mirror reverses every vector: B→C becomes A♭→G
 	- scales are readouts, not sources (compression)
 	- → [[The Mirror in the Fifth (tab)#Coordinates]] (quarry)
+
+### 4 · Closing the circle
+
 - **The duodene** · twelve notes as a window on the lattice · hinge into ET (Ellis; *citation needed*)
 - **The helix** · roll the slope into a cylinder · twelve pure fifths return one comma higher · the circle can't close
 	- height on the cylinder = distance from ET
