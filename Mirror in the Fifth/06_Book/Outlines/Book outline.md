@@ -50,10 +50,16 @@ Short. Hook → journey and why → compression planted.
 Step by step, overtonal. Possibly many chapters.
 
 - **Tuning a string** · the first confrontation → [[A Unique Musical Journey]]
+- **The overtone series** · laid out once, the source of everything after
+	- partials 1, 2, 4, 8 → C · 3, 6, 12 → G · 5, 10 → E · 9 → D · 15 → B
 - **1:1** · unison
 - **2:1** · octave → identity
+	- octave folding: 9/4 → 9/8 · the ancestral F 2/3 → 4/3 · E♭ lands inside C–G
 	- the prime ladder: 1 fundamental · 2 identity · 3 generation · 5 color (Mathieu; Hauptmann; Levy's senarius)
+	- only primes open new directions: 4 and 6 are octaves of 2 and 3 · why the map is two-dimensional
+	- why stop at 5: the book stays in the 5-limit (7 parked)
 - **3:2** · C→G · generation · the first new sound · the polar unit
+	- why simple ratios sound smooth: shared partials, no beating (Helmholtz; *citation to check*)
 - **Ancestry** · running the overtones backward · F→C (C as F's 3rd partial) · and the twin: G→D
 	- the first reflection · F–C ↔ G–D around the poles
 	- no undertone series needed · every dark note: "which note would have produced this one?"
@@ -77,14 +83,18 @@ Step by step, overtonal. Possibly many chapters.
 	- major: one ancestor, two offspring · minor: two ancestors, one offspring (von Oettingen)
 	- the same two thirds, 4:5 and 5:6, in opposite orders (Zarlino's two divisions of the fifth)
 	- each third sits over the middle of the fifth: major points up, minor down
+	- every triangle has three edges: fifth · major third · minor third · the three directions for reading any shape
 	- IV I V and iv i v on the same three anchors
 	- the pendular third · E ↔ E♭ across the axis · the distance between them is the half step (25/24)
 - **Two roads to E** · four fifths vs one third → the comma
+	- a ruler for small distances: cents · syntonic comma ≈ 21.5¢ · Pythagorean comma ≈ 23.5¢ · dieses
 	- the bright third pulls its note down, the dark third pulls up, by the same amount
 	- compression: one spelling, two Es
 - **The 5-limit lattice** · complete picture
 	- regions: keys as shapes · roofs (major) and floors (minor)
 	- a region is a different C major from a window: E by one third, not four fifths
+	- the just major scale read off the lattice: three step sizes, 9/8 · 10/9 · 16/15 (Ptolemy, Zarlino; *attribution to check*) · ET has two
+	- harmony lives on the triangles, melody on the crossings · each small step crosses one edge (names L, R, P wait for Part V)
 - **The chromatic highway** · the true north–south road · born from the pendular third
 	- on the infinite lattice: north and east sharp · south and west flat
 	- in the triangle lattice the chromatic semitone points straight north, at right angles to the spine

@@ -35,6 +35,21 @@ tags:
 | Why minor fuses less: 10:12:15 · distant A♭ fundamental | Tab · Principles | Der | III · Two triads · keep (gravity) |
 | Each third sits over the middle of the fifth: major points up, minor down | Tab · The mirror and its fixed objects | Der | III · The 5-limit lattice |
 
+### Teaching steps added 2026-11-03
+
+Not from the Lab: explanatory steps the build needs.
+
+| Item | Source | Status | Home |
+| --- | --- | --- | --- |
+| The overtone series laid out: partials → C, G, E, D, B | standard; Mathieu | Supp | III · The overtone series |
+| Octave folding: 9/4 → 9/8 · F 2/3 → 4/3 · E♭ inside C–G | Tab · Coordinates (octave identity) | Der | III · 2:1 |
+| Only primes open new directions · why stop at 5 | Tab · The prime ladder; Open questions | Der / Prem | III · 2:1 |
+| Why simple ratios sound smooth: shared partials, no beating | Helmholtz (*check*) | Supp | III · 3:2 |
+| Three edges of every triangle: fifth, major third, minor third | Tab · The other two spines | Der | III · Two triads |
+| Cents as the ruler · comma sizes | Tab · Ch. 10; The other two spines | Supp | III · Two roads to E |
+| The just major scale: 9/8, 10/9, 16/15 | Ptolemy, Zarlino (*check*) · Tab · Intervals are vectors | Supp | III · The 5-limit lattice |
+| Harmony on the triangles, melody on the crossings | Tab · Steps cross edges | Der | III · The 5-limit lattice (L, R, P in V) |
+
 ## B. The spine (fifths only)
 
 | Item | Source | Status | Home |
