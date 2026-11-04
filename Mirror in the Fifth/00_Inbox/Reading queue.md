@@ -11,6 +11,7 @@ General references to look at. When one starts bearing on a thread, it gets a so
 - Vincent Persichetti, *Twentieth-Century Harmony* – [[2026-10-30]]
 - Charles Wuorinen, *Simple Composition* – [[2026-10-30]]
 - Elaine Chew, the Spiral Array (prior 3D helix model of tonality; read before the helix chapter) – [[2026-11-03]]
+- Chord-scale theory after Russell: Aebersold, *Jazz Handbook*; Levine, *The Jazz Theory Book*; Graf/Nettles, *The Chord Scale Theory and Jazz Harmony* (for the compression thread) – [[2026-11-04]]
 
 > [!ai] Citation details to verify
 > - Persichetti, *Twentieth-Century Harmony: Creative Aspects and Practice* (New York: Norton, 1961)
